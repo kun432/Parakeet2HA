@@ -16,7 +16,7 @@ It can be set as an authoritive 2nd stage wakeword or without and could even rep
 
 Anyway have a play, its MIT so copy and molest at your leisure.
 
-if you want to test you can add this to /homeassistant/configuration.yaml
+if you want to test you can add this to /homeassistant/configuration.yaml via the file editor addon
 
 ```
 # ==============================================================================
