@@ -1,0 +1,100 @@
+# ==========================================================
+# PARAKEET2HA - JAPANESE CONFIGURATION
+# ==========================================================
+
+asr_settings:
+  model_name: "nvidia/parakeet-tdt_ctc-0.6b-ja"
+  silence_duration: 1.5
+  process_interval: 1.0
+  stability_limit: 3
+
+  # 日本語ウェイクワード
+  wake_words:
+    - "アレクサ"
+    - "ねえ、アレクサ"
+
+  # ウェイクワード判定設定
+  wake_word_authoritative: true
+  wake_word_strictness: 0.60
+
+  # 入力デバイス設定
+  input_device_name: "mic"
+  show_vu_meter: true
+
+# 日本語ドメインエイリアス（複数形や別名）
+domain_aliases:
+  light:
+    - "照明"
+    - "ライト"
+    - "電気"
+  switch:
+    - "スイッチ"
+    - "コンセント"
+    - "プラグ"
+  cover:
+    - "ブラインド"
+    - "カーテン"
+    - "シャッター"
+  fan:
+    - "扇風機"
+    - "ファン"
+    - "送風機"
+
+# 日本語アクションマップ（固定）
+action_map:
+  # turn_on
+  "つけて": "turn_on"
+  "つけて。": "turn_on"
+  "つけて！": "turn_on"
+  "オン": "turn_on"
+  "オンにして": "turn_on"
+  "入れて": "turn_on"
+  "点けて": "turn_on"
+  "ひらいて": "turn_on"
+  "開けて": "turn_on"
+  "on": "turn_on"
+
+  # turn_off
+  "消して": "turn_off"
+  "消して。": "turn_off"
+  "消して！": "turn_off"
+  "オフ": "turn_off"
+  "オフにして": "turn_off"
+  "止めて": "turn_off"
+  "切って": "turn_off"
+  "とじて": "turn_off"
+  "閉じて": "turn_off"
+  "off": "turn_off"
+
+  # toggle
+  "切り替えて": "toggle"
+  "トグル": "toggle"
+  "切り替え": "toggle"
+
+  # open
+  "開けて": "open"
+  "あけて": "open"
+  "開いて": "open"
+
+  # close
+  "閉じて": "close"
+  "とじて": "close"
+  "閉めて": "close"
+  "しめて": "close"
+
+  # stop
+  "止めて": "stop"
+  "とまって": "stop"
+  "停止": "stop"
+
+# ==========================================================
+# サウンドフィードバック設定
+# ==========================================================
+sound_settings:
+  enabled: true
+  sounds_dir: "sounds"
+  # 効果音ファイル:
+  #   sounds/wake.wav    - ウェイクワード検出時
+  #   sounds/success.wav - インテント成功時
+  #   sounds/timeout.wav - タイムアウト時
+  #   sounds/error.wav   - インテント不適切時
