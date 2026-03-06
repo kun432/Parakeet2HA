@@ -1,3 +1,207 @@
+# Parakeet2HA 日本語版 使い方
+
+## 概要
+
+以下のレポジトリを参考に日本語でウェイクワード＋音声コマンド認識を実装したものです。
+
+https://github.com/rolyantrauts/Parakeet2HA
+
+> ⚠️ **注意**: 現状 **macOS専用** です（`/tmp`、`afplay`等を使用）
+
+### ツーショット動作
+
+一般的なスマートスピーカー（例: Alexaなど）と同じように、ウェイクワード → インテント発話の2ターンで動作します：
+
+```
+ユーザー: 「アレクサ」           → ウェイクワード検出 → 待機状態
+ユーザー: 「ライトつけて」       → インテント処理 → 実行
+```
+
+### Home Assistant連携
+
+元のレポジトリにあったHome Assistant連携機能は外しています。必要な場合はもとのレポジトリのコードなどを元に実装してください。
+
+### モデル
+
+以下のモデルを使用しています。
+
+- https://huggingface.co/nvidia/parakeet-tdt_ctc-0.6b-ja
+- https://github.com/snakers4/silero-vad
+
+---
+
+## セットアップ
+
+```bash
+# 依存関係インストール
+pip install -r requirements.txt
+```
+
+---
+
+## 実行方法
+
+### 1. リアルタイム認識（推奨）
+
+2つのターミナルで起動：
+
+**ターミナル1: ASRサーバー**
+```bash
+python main_ja.py
+```
+
+**ターミナル2: マイク入力**
+```bash
+python simulate_boww_ja.py
+```
+
+マイクに向かって話すと認識結果が表示されます。
+
+- ソケット: `/tmp/parakeet2ha_ja.sock`
+- 音声保存先: `/tmp/boww_spool_ja/`
+
+### 2. 単発ファイル認識
+
+```bash
+# 標準出力
+python main_ja.py -f /path/to/audio.wav
+
+# JSON出力
+python main_ja.py -f /path/to/audio.wav --json
+```
+
+### 3. サウンドフィードバック付き（推奨）
+
+効果音でフィードバックを返します。
+
+**効果音ファイル準備:**
+```bash
+# sounds/ にWAVファイルを配置
+sounds/
+├── wake.wav    # ウェイクワード検出時
+├── success.wav # インテント成功時
+├── timeout.wav # タイムアウト時
+└── error.wav   # インテント不適切時
+
+# MP3→WAV変換（必要な場合）
+ffmpeg -i input.mp3 -ac 1 -ar 16000 sounds/wake.wav
+```
+
+**起動:**
+```bash
+# ターミナル1: ASRサーバー（サウンド付き）
+python main_ja_sound.py
+
+# ターミナル2: マイク入力
+python simulate_boww_ja_sound.py
+```
+
+- ソケット: `/tmp/parakeet2ha_ja_sound.sock`
+- 音声保存先: `/tmp/boww_spool_ja_sound/`
+
+---
+
+## 設定ファイル (`config_ja.yaml`)
+
+| 項目 | 説明 | デフォルト |
+|-----|------|----------|
+| `asr_settings.model_name` | ASRモデル名 | `nvidia/parakeet-tdt_ctc-0.6b-ja` |
+| `asr_settings.wake_words` | ウェイクワード | `["アレクサ", "ねえ、アレクサ"]` |
+| `asr_settings.wake_word_strictness` | ウェイクワード判定の厳密さ | `0.60` |
+| `action_map` | 日本語アクション → サービス名 | つけて/消して等 |
+| `domain_aliases` | 日本語エイリアス → ドメイン | 照明/ライト等 |
+
+---
+
+## ウェイクワード
+
+| パターン | 例 |
+|---------|-----|
+| `アレクサ` | 「アレクサ」→（待機）→「ライトつけて」 |
+| `ねえ、アレクサ` | 「ねえ、アレクサ」→（待機）→「ライトつけて」 |
+
+---
+
+## アクション一覧
+
+| 日本語 | アクション |
+|--------|-----------|
+| つけて、オン、入れて、点けて | `turn_on` |
+| 消して、オフ、止めて、切って | `turn_off` |
+| 切り替えて、トグル | `toggle` |
+| 開けて、あけて | `open` |
+| 閉じて、とじて、閉めて | `close` |
+| 止めて、停止 | `stop` |
+
+---
+
+## ドメインエイリアス
+
+| ドメイン | 日本語エイリアス |
+|---------|-----------------|
+| `light` | 照明、ライト、電気 |
+| `switch` | スイッチ、コンセント、プラグ |
+| `cover` | ブラインド、カーテン、シャッター |
+| `fan` | 扇風機、ファン、送風機 |
+
+---
+
+## 出力形式
+
+```json
+{
+  "timestamp": "2026-03-07T12:34:56.789",
+  "audio_file": "/tmp/test.wav",
+  "transcription": "アレクサ",
+  "wake_word_detected": true,
+  "intent": null
+}
+```
+
+**インテント発話後:**
+```json
+{
+  "timestamp": "2026-03-07T12:35:02.123",
+  "audio_file": "/tmp/test2.wav",
+  "transcription": "ライトつけて",
+  "wake_word_detected": true,
+  "intent": {
+    "action": "turn_on",
+    "domain": "light",
+    "entity": null,
+    "parameters": null
+  }
+}
+```
+
+| フィールド | 説明 |
+|-----------|------|
+| `timestamp` | 処理時刻 |
+| `audio_file` | 入力音声ファイルパス |
+| `transcription` | 音声認識結果 |
+| `wake_word_detected` | ウェイクワード検出フラグ |
+| `intent.action` | アクション (`turn_on`等) |
+| `intent.domain` | ドメイン (`light`等) |
+| `intent.entity` | エンティティ名 |
+| `intent.parameters` | 数値パラメータ |
+
+---
+
+## オプション
+
+```
+usage: main_ja.py [-h] [--config CONFIG] [--file FILE] [--json]
+
+options:
+  -c, --config CONFIG   設定ファイルパス (default: config_ja.yaml)
+  -f, --file FILE       単発WAVファイル認識モード
+  -j, --json            JSON形式で出力
+```
+
+以下は元レポジトリのREADMEです。
+
+---
+
 # Parakeet2HA
 HA voice control 
 
