@@ -1,25 +1,27 @@
 # Parakeet2HA
 HA voice control 
 
-Just a proof of concept no LLM needed voice control of HA, 1st run wait for parakeet to download and install.
+Just a proof of concept no LLM needed voice control of HA, 1st run wait for parakeet to download and install. 
 run `python simulate_boww.py` and in `python main.py` in seperate terminals to test maybe put a AGC on your mic [Vlevel
-](https://github.com/radiocicletta/vlevel)
-The LLM needs for turning on a lightbulb or static fixed strings of HASSIL have always been a confusion for me.
-So knocked this up over the last couple of days, its running on a I3-9100 mini pc with HA.
-Uses the websockets API so can be situated anywhere and used Parakeet as I am a lazy Dev.
-Rather than have hardcoded language strings when HA has translated presentation layers, why not use them.
-So Parakeet do to its relatively low compute and fast speed and language support was used a demo.
-Same methods with smaller models will work, but you have have individual language models and also maybe implement noise supression as parakeet is very tolerant.
-So for proof of concept perfect but you could make extremely lite dedicated language production pipelines.
+](https://github.com/radiocicletta/vlevel) 
+The LLM needs for turning on a lightbulb or static fixed strings of HASSIL have always been a confusion for me. 
+So knocked this up over the last couple of days, its running on a I3-9100 mini pc with HA. 
+With HAOS aloocated 2gb Parakeet bumps this to 9Gb but even on an old i3 cpu load is 30% of the 4 cores. 
+I have 16gb but a TTS such as Kokoro or Kitten would be no problem. 
+Uses the websockets API so can be situated anywhere and used Parakeet as I am a lazy Dev. 
+Rather than have hardcoded language strings when HA has translated presentation layers, why not use them. 
+So Parakeet do to its relatively low compute and fast speed and language support was used a demo. 
+Same methods with smaller models will work, but you have have individual language models and also maybe implement noise supression as parakeet is very tolerant. 
+So for proof of concept perfect but you could make extremely lite dedicated language production pipelines. 
 
-Its extremely fast to update from end of voice command even on a I3-9100.
-I have played about with the intent parser enough to get much working, but I don't really create product, just highlight methods and concept.
-It can be set as an authoritive 2nd stage wakeword or without and could even replace the need for wakeword if you so wanted.
-config.yaml is fairly small and easy to configure and sort of self explanitory.
+Its extremely fast to update from end of voice command even on a I3-9100. 
+I have played about with the intent parser enough to get much working, but I don't really create product, just highlight methods and concept. 
+It can be set as an authoritive 2nd stage wakeword or without and could even replace the need for wakeword if you so wanted. 
+config.yaml is fairly small and easy to configure and sort of self explanitory. 
 
-Anyway have a play, its MIT so copy and molest at your leisure.
+Anyway have a play, its MIT so copy and molest at your leisure. 
 
-if you want to test you can add this to /homeassistant/configuration.yaml via the file editor addon
+if you want to test you can add this to /homeassistant/configuration.yaml via the file editor addon 
 ```
 sudo apt-get install -y build-essential cmake libboost-all-dev zlib1g-dev libbz2-dev liblzma-dev git portaudio19-dev
 pip install https://kheafield.com/code/kenlm.tar.gz
@@ -357,8 +359,8 @@ climate:
     target_temp: 20
 ```
 
-Alocate to rooms and add names.
-I should do more about just selecting names and domain functions, but as you can see the base logic is there and guess maybe someone will. 
+Alocate to rooms and add names. 
+I should do more about just selecting names and domain functions, but as you can see the base logic is there and guess maybe someone will.  
 
 ```
 # ~/.asoundrc
