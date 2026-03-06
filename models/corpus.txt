@@ -1,0 +1,2107 @@
+hey jarvis add item shopping list
+hey jarvis bedroom blinds close
+hey jarvis bedroom blinds close tilt
+hey jarvis bedroom blinds open
+hey jarvis bedroom blinds open tilt
+hey jarvis bedroom blinds set position
+hey jarvis bedroom blinds set tilt position
+hey jarvis bedroom blinds stop
+hey jarvis bedroom blinds stop tilt
+hey jarvis bedroom blinds toggle
+hey jarvis bedroom blinds toggle tilt
+hey jarvis bedroom covers close
+hey jarvis bedroom covers close tilt
+hey jarvis bedroom covers open
+hey jarvis bedroom covers open tilt
+hey jarvis bedroom covers set position
+hey jarvis bedroom covers set tilt position
+hey jarvis bedroom covers stop
+hey jarvis bedroom covers stop tilt
+hey jarvis bedroom covers toggle
+hey jarvis bedroom covers toggle tilt
+hey jarvis bedroom fan decrease speed
+hey jarvis bedroom fan increase speed
+hey jarvis bedroom fan oscillate
+hey jarvis bedroom fan set direction
+hey jarvis bedroom fan set preset mode
+hey jarvis bedroom fan set speed
+hey jarvis bedroom fan toggle
+hey jarvis bedroom fan turn off
+hey jarvis bedroom fan turn on
+hey jarvis bedroom fans decrease speed
+hey jarvis bedroom fans increase speed
+hey jarvis bedroom fans oscillate
+hey jarvis bedroom fans set direction
+hey jarvis bedroom fans set preset mode
+hey jarvis bedroom fans set speed
+hey jarvis bedroom fans toggle
+hey jarvis bedroom fans turn off
+hey jarvis bedroom fans turn on
+hey jarvis bedroom light toggle
+hey jarvis bedroom light turn off
+hey jarvis bedroom light turn on
+hey jarvis bedroom lights toggle
+hey jarvis bedroom lights turn off
+hey jarvis bedroom lights turn on
+hey jarvis bedroom plugs toggle
+hey jarvis bedroom plugs turn off
+hey jarvis bedroom plugs turn on
+hey jarvis bedroom shades close
+hey jarvis bedroom shades close tilt
+hey jarvis bedroom shades open
+hey jarvis bedroom shades open tilt
+hey jarvis bedroom shades set position
+hey jarvis bedroom shades set tilt position
+hey jarvis bedroom shades stop
+hey jarvis bedroom shades stop tilt
+hey jarvis bedroom shades toggle
+hey jarvis bedroom shades toggle tilt
+hey jarvis bedroom switch toggle
+hey jarvis bedroom switch turn off
+hey jarvis bedroom switch turn on
+hey jarvis bedroom switches toggle
+hey jarvis bedroom switches turn off
+hey jarvis bedroom switches turn on
+hey jarvis bedroom v bsensor motion reload
+hey jarvis bedroom v bsensor motion toggle
+hey jarvis bedroom v bsensor motion turn off
+hey jarvis bedroom v bsensor motion turn on
+hey jarvis bedroom v cover blinds pos decrement
+hey jarvis bedroom v cover blinds pos increment
+hey jarvis bedroom v cover blinds pos reload
+hey jarvis bedroom v cover blinds pos set
+hey jarvis bedroom v lock secondary reload
+hey jarvis bedroom v lock secondary toggle
+hey jarvis bedroom v lock secondary turn off
+hey jarvis bedroom v lock secondary turn on
+hey jarvis bedroom virtual motion state reload
+hey jarvis bedroom virtual motion state toggle
+hey jarvis bedroom virtual motion state turn off
+hey jarvis bedroom virtual motion state turn on
+hey jarvis bedroom virtual secondary door state reload
+hey jarvis bedroom virtual secondary door state toggle
+hey jarvis bedroom virtual secondary door state turn off
+hey jarvis bedroom virtual secondary door state turn on
+hey jarvis bedroom virtual secondary lock lock
+hey jarvis bedroom virtual secondary lock open
+hey jarvis bedroom virtual secondary lock unlock
+hey jarvis bedroom virtual thermostat set fan mode
+hey jarvis bedroom virtual thermostat set horizontal swing mode
+hey jarvis bedroom virtual thermostat set hvac mode
+hey jarvis bedroom virtual thermostat set preset mode
+hey jarvis bedroom virtual thermostat set swing mode
+hey jarvis bedroom virtual thermostat set target humidity
+hey jarvis bedroom virtual thermostat set target temperature
+hey jarvis bedroom virtual thermostat toggle
+hey jarvis bedroom virtual thermostat turn off
+hey jarvis bedroom virtual thermostat turn on
+hey jarvis bedroom virtual window blinds close
+hey jarvis bedroom virtual window blinds close tilt
+hey jarvis bedroom virtual window blinds open
+hey jarvis bedroom virtual window blinds open tilt
+hey jarvis bedroom virtual window blinds position decrement
+hey jarvis bedroom virtual window blinds position increment
+hey jarvis bedroom virtual window blinds position reload
+hey jarvis bedroom virtual window blinds position set
+hey jarvis bedroom virtual window blinds set position
+hey jarvis bedroom virtual window blinds set tilt position
+hey jarvis bedroom virtual window blinds stop
+hey jarvis bedroom virtual window blinds stop tilt
+hey jarvis bedroom virtual window blinds toggle
+hey jarvis bedroom virtual window blinds toggle tilt
+hey jarvis blinds close
+hey jarvis blinds close tilt
+hey jarvis blinds open
+hey jarvis blinds open tilt
+hey jarvis blinds set position
+hey jarvis blinds set tilt position
+hey jarvis blinds stop
+hey jarvis blinds stop tilt
+hey jarvis blinds toggle
+hey jarvis blinds toggle tilt
+hey jarvis clear skipped update file editor update
+hey jarvis clear skipped update home assistant core update
+hey jarvis clear skipped update home assistant operating system update
+hey jarvis clear skipped update home assistant supervisor update
+hey jarvis clear tts cache google translate en com
+hey jarvis close bedroom blinds
+hey jarvis close bedroom covers
+hey jarvis close bedroom shades
+hey jarvis close bedroom virtual window blinds
+hey jarvis close blinds
+hey jarvis close covers
+hey jarvis close kitchen blinds
+hey jarvis close kitchen covers
+hey jarvis close kitchen shades
+hey jarvis close living room blinds
+hey jarvis close living room covers
+hey jarvis close living room shades
+hey jarvis close living room virtual overhead door
+hey jarvis close shades
+hey jarvis close the bedroom blinds
+hey jarvis close the bedroom covers
+hey jarvis close the bedroom shades
+hey jarvis close the blinds in the bedroom
+hey jarvis close the blinds in the kitchen
+hey jarvis close the blinds in the living room
+hey jarvis close the covers in the bedroom
+hey jarvis close the covers in the kitchen
+hey jarvis close the covers in the living room
+hey jarvis close the kitchen blinds
+hey jarvis close the kitchen covers
+hey jarvis close the kitchen shades
+hey jarvis close the living room blinds
+hey jarvis close the living room covers
+hey jarvis close the living room shades
+hey jarvis close the shades in the bedroom
+hey jarvis close the shades in the kitchen
+hey jarvis close the shades in the living room
+hey jarvis close tilt bedroom blinds
+hey jarvis close tilt bedroom covers
+hey jarvis close tilt bedroom shades
+hey jarvis close tilt bedroom virtual window blinds
+hey jarvis close tilt blinds
+hey jarvis close tilt covers
+hey jarvis close tilt kitchen blinds
+hey jarvis close tilt kitchen covers
+hey jarvis close tilt kitchen shades
+hey jarvis close tilt living room blinds
+hey jarvis close tilt living room covers
+hey jarvis close tilt living room shades
+hey jarvis close tilt living room virtual overhead door
+hey jarvis close tilt shades
+hey jarvis close tilt the bedroom blinds
+hey jarvis close tilt the bedroom covers
+hey jarvis close tilt the bedroom shades
+hey jarvis close tilt the blinds in the bedroom
+hey jarvis close tilt the blinds in the kitchen
+hey jarvis close tilt the blinds in the living room
+hey jarvis close tilt the covers in the bedroom
+hey jarvis close tilt the covers in the kitchen
+hey jarvis close tilt the covers in the living room
+hey jarvis close tilt the kitchen blinds
+hey jarvis close tilt the kitchen covers
+hey jarvis close tilt the kitchen shades
+hey jarvis close tilt the living room blinds
+hey jarvis close tilt the living room covers
+hey jarvis close tilt the living room shades
+hey jarvis close tilt the shades in the bedroom
+hey jarvis close tilt the shades in the kitchen
+hey jarvis close tilt the shades in the living room
+hey jarvis close tilt virtual overhead door
+hey jarvis close tilt virtual overhead door living room
+hey jarvis close tilt virtual window blinds
+hey jarvis close tilt virtual window blinds bedroom
+hey jarvis close virtual overhead door
+hey jarvis close virtual overhead door living room
+hey jarvis close virtual window blinds
+hey jarvis close virtual window blinds bedroom
+hey jarvis covers close
+hey jarvis covers close tilt
+hey jarvis covers open
+hey jarvis covers open tilt
+hey jarvis covers set position
+hey jarvis covers set tilt position
+hey jarvis covers stop
+hey jarvis covers stop tilt
+hey jarvis covers toggle
+hey jarvis covers toggle tilt
+hey jarvis decrease speed bedroom fan
+hey jarvis decrease speed bedroom fans
+hey jarvis decrease speed fan
+hey jarvis decrease speed fans
+hey jarvis decrease speed kitchen fan
+hey jarvis decrease speed kitchen fans
+hey jarvis decrease speed kitchen virtual ceiling fan
+hey jarvis decrease speed living room fan
+hey jarvis decrease speed living room fans
+hey jarvis decrease speed living room virtual desk fan
+hey jarvis decrease speed the bedroom fan
+hey jarvis decrease speed the bedroom fans
+hey jarvis decrease speed the fan in the bedroom
+hey jarvis decrease speed the fan in the kitchen
+hey jarvis decrease speed the fan in the living room
+hey jarvis decrease speed the fans in the bedroom
+hey jarvis decrease speed the fans in the kitchen
+hey jarvis decrease speed the fans in the living room
+hey jarvis decrease speed the kitchen fan
+hey jarvis decrease speed the kitchen fans
+hey jarvis decrease speed the living room fan
+hey jarvis decrease speed the living room fans
+hey jarvis decrease speed virtual ceiling fan
+hey jarvis decrease speed virtual ceiling fan kitchen
+hey jarvis decrease speed virtual desk fan
+hey jarvis decrease speed virtual desk fan living room
+hey jarvis decrement bedroom v cover blinds pos
+hey jarvis decrement bedroom virtual window blinds position
+hey jarvis decrement kitchen v fan ceiling speed
+hey jarvis decrement kitchen v light ceiling brightness
+hey jarvis decrement kitchen virtual ceiling fan speed
+hey jarvis decrement kitchen virtual ceiling light brightness
+hey jarvis decrement living room v sensor humidity
+hey jarvis decrement living room v sensor temp
+hey jarvis decrement living room virtual humidity
+hey jarvis decrement living room virtual temperature
+hey jarvis decrement v cover blinds pos
+hey jarvis decrement v cover blinds pos bedroom
+hey jarvis decrement v fan ceiling speed
+hey jarvis decrement v fan ceiling speed kitchen
+hey jarvis decrement v light ceiling brightness
+hey jarvis decrement v light ceiling brightness kitchen
+hey jarvis decrement v sensor humidity
+hey jarvis decrement v sensor humidity living room
+hey jarvis decrement v sensor temp
+hey jarvis decrement v sensor temp living room
+hey jarvis decrement virtual ceiling fan speed
+hey jarvis decrement virtual ceiling fan speed kitchen
+hey jarvis decrement virtual ceiling light brightness
+hey jarvis decrement virtual ceiling light brightness kitchen
+hey jarvis decrement virtual humidity
+hey jarvis decrement virtual humidity living room
+hey jarvis decrement virtual temperature
+hey jarvis decrement virtual temperature living room
+hey jarvis decrement virtual window blinds position
+hey jarvis decrement virtual window blinds position bedroom
+hey jarvis fan decrease speed
+hey jarvis fan increase speed
+hey jarvis fan oscillate
+hey jarvis fan set direction
+hey jarvis fan set preset mode
+hey jarvis fan set speed
+hey jarvis fan toggle
+hey jarvis fan turn off
+hey jarvis fan turn on
+hey jarvis fans decrease speed
+hey jarvis fans increase speed
+hey jarvis fans oscillate
+hey jarvis fans set direction
+hey jarvis fans set preset mode
+hey jarvis fans set speed
+hey jarvis fans toggle
+hey jarvis fans turn off
+hey jarvis fans turn on
+hey jarvis file editor update clear skipped update
+hey jarvis file editor update install update
+hey jarvis file editor update skip update
+hey jarvis forecast home get forecasts
+hey jarvis get forecasts forecast home
+hey jarvis get forecasts weather
+hey jarvis get items shopping list
+hey jarvis google translate en com clear tts cache
+hey jarvis google translate en com speak
+hey jarvis home assistant core update clear skipped update
+hey jarvis home assistant core update install update
+hey jarvis home assistant core update skip update
+hey jarvis home assistant operating system update clear skipped update
+hey jarvis home assistant operating system update install update
+hey jarvis home assistant operating system update skip update
+hey jarvis home assistant process
+hey jarvis home assistant reload
+hey jarvis home assistant supervisor update clear skipped update
+hey jarvis home assistant supervisor update install update
+hey jarvis home assistant supervisor update skip update
+hey jarvis home reload
+hey jarvis increase speed bedroom fan
+hey jarvis increase speed bedroom fans
+hey jarvis increase speed fan
+hey jarvis increase speed fans
+hey jarvis increase speed kitchen fan
+hey jarvis increase speed kitchen fans
+hey jarvis increase speed kitchen virtual ceiling fan
+hey jarvis increase speed living room fan
+hey jarvis increase speed living room fans
+hey jarvis increase speed living room virtual desk fan
+hey jarvis increase speed the bedroom fan
+hey jarvis increase speed the bedroom fans
+hey jarvis increase speed the fan in the bedroom
+hey jarvis increase speed the fan in the kitchen
+hey jarvis increase speed the fan in the living room
+hey jarvis increase speed the fans in the bedroom
+hey jarvis increase speed the fans in the kitchen
+hey jarvis increase speed the fans in the living room
+hey jarvis increase speed the kitchen fan
+hey jarvis increase speed the kitchen fans
+hey jarvis increase speed the living room fan
+hey jarvis increase speed the living room fans
+hey jarvis increase speed virtual ceiling fan
+hey jarvis increase speed virtual ceiling fan kitchen
+hey jarvis increase speed virtual desk fan
+hey jarvis increase speed virtual desk fan living room
+hey jarvis increment bedroom v cover blinds pos
+hey jarvis increment bedroom virtual window blinds position
+hey jarvis increment kitchen v fan ceiling speed
+hey jarvis increment kitchen v light ceiling brightness
+hey jarvis increment kitchen virtual ceiling fan speed
+hey jarvis increment kitchen virtual ceiling light brightness
+hey jarvis increment living room v sensor humidity
+hey jarvis increment living room v sensor temp
+hey jarvis increment living room virtual humidity
+hey jarvis increment living room virtual temperature
+hey jarvis increment v cover blinds pos
+hey jarvis increment v cover blinds pos bedroom
+hey jarvis increment v fan ceiling speed
+hey jarvis increment v fan ceiling speed kitchen
+hey jarvis increment v light ceiling brightness
+hey jarvis increment v light ceiling brightness kitchen
+hey jarvis increment v sensor humidity
+hey jarvis increment v sensor humidity living room
+hey jarvis increment v sensor temp
+hey jarvis increment v sensor temp living room
+hey jarvis increment virtual ceiling fan speed
+hey jarvis increment virtual ceiling fan speed kitchen
+hey jarvis increment virtual ceiling light brightness
+hey jarvis increment virtual ceiling light brightness kitchen
+hey jarvis increment virtual humidity
+hey jarvis increment virtual humidity living room
+hey jarvis increment virtual temperature
+hey jarvis increment virtual temperature living room
+hey jarvis increment virtual window blinds position
+hey jarvis increment virtual window blinds position bedroom
+hey jarvis install update file editor update
+hey jarvis install update home assistant core update
+hey jarvis install update home assistant operating system update
+hey jarvis install update home assistant supervisor update
+hey jarvis kitchen blinds close
+hey jarvis kitchen blinds close tilt
+hey jarvis kitchen blinds open
+hey jarvis kitchen blinds open tilt
+hey jarvis kitchen blinds set position
+hey jarvis kitchen blinds set tilt position
+hey jarvis kitchen blinds stop
+hey jarvis kitchen blinds stop tilt
+hey jarvis kitchen blinds toggle
+hey jarvis kitchen blinds toggle tilt
+hey jarvis kitchen covers close
+hey jarvis kitchen covers close tilt
+hey jarvis kitchen covers open
+hey jarvis kitchen covers open tilt
+hey jarvis kitchen covers set position
+hey jarvis kitchen covers set tilt position
+hey jarvis kitchen covers stop
+hey jarvis kitchen covers stop tilt
+hey jarvis kitchen covers toggle
+hey jarvis kitchen covers toggle tilt
+hey jarvis kitchen fan decrease speed
+hey jarvis kitchen fan increase speed
+hey jarvis kitchen fan oscillate
+hey jarvis kitchen fan set direction
+hey jarvis kitchen fan set preset mode
+hey jarvis kitchen fan set speed
+hey jarvis kitchen fan toggle
+hey jarvis kitchen fan turn off
+hey jarvis kitchen fan turn on
+hey jarvis kitchen fans decrease speed
+hey jarvis kitchen fans increase speed
+hey jarvis kitchen fans oscillate
+hey jarvis kitchen fans set direction
+hey jarvis kitchen fans set preset mode
+hey jarvis kitchen fans set speed
+hey jarvis kitchen fans toggle
+hey jarvis kitchen fans turn off
+hey jarvis kitchen fans turn on
+hey jarvis kitchen light toggle
+hey jarvis kitchen light turn off
+hey jarvis kitchen light turn on
+hey jarvis kitchen lights toggle
+hey jarvis kitchen lights turn off
+hey jarvis kitchen lights turn on
+hey jarvis kitchen plugs toggle
+hey jarvis kitchen plugs turn off
+hey jarvis kitchen plugs turn on
+hey jarvis kitchen shades close
+hey jarvis kitchen shades close tilt
+hey jarvis kitchen shades open
+hey jarvis kitchen shades open tilt
+hey jarvis kitchen shades set position
+hey jarvis kitchen shades set tilt position
+hey jarvis kitchen shades stop
+hey jarvis kitchen shades stop tilt
+hey jarvis kitchen shades toggle
+hey jarvis kitchen shades toggle tilt
+hey jarvis kitchen switch toggle
+hey jarvis kitchen switch turn off
+hey jarvis kitchen switch turn on
+hey jarvis kitchen switches toggle
+hey jarvis kitchen switches turn off
+hey jarvis kitchen switches turn on
+hey jarvis kitchen v fan ceiling reload
+hey jarvis kitchen v fan ceiling speed decrement
+hey jarvis kitchen v fan ceiling speed increment
+hey jarvis kitchen v fan ceiling speed reload
+hey jarvis kitchen v fan ceiling speed set
+hey jarvis kitchen v fan ceiling toggle
+hey jarvis kitchen v fan ceiling turn off
+hey jarvis kitchen v fan ceiling turn on
+hey jarvis kitchen v light ceiling brightness decrement
+hey jarvis kitchen v light ceiling brightness increment
+hey jarvis kitchen v light ceiling brightness reload
+hey jarvis kitchen v light ceiling brightness set
+hey jarvis kitchen v light ceiling reload
+hey jarvis kitchen v light ceiling toggle
+hey jarvis kitchen v light ceiling turn off
+hey jarvis kitchen v light ceiling turn on
+hey jarvis kitchen v light lamp reload
+hey jarvis kitchen v light lamp toggle
+hey jarvis kitchen v light lamp turn off
+hey jarvis kitchen v light lamp turn on
+hey jarvis kitchen v lock primary reload
+hey jarvis kitchen v lock primary toggle
+hey jarvis kitchen v lock primary turn off
+hey jarvis kitchen v lock primary turn on
+hey jarvis kitchen v switch coffee reload
+hey jarvis kitchen v switch coffee toggle
+hey jarvis kitchen v switch coffee turn off
+hey jarvis kitchen v switch coffee turn on
+hey jarvis kitchen v switch tv reload
+hey jarvis kitchen v switch tv toggle
+hey jarvis kitchen v switch tv turn off
+hey jarvis kitchen v switch tv turn on
+hey jarvis kitchen virtual ceiling fan decrease speed
+hey jarvis kitchen virtual ceiling fan increase speed
+hey jarvis kitchen virtual ceiling fan oscillate
+hey jarvis kitchen virtual ceiling fan set direction
+hey jarvis kitchen virtual ceiling fan set preset mode
+hey jarvis kitchen virtual ceiling fan set speed
+hey jarvis kitchen virtual ceiling fan speed decrement
+hey jarvis kitchen virtual ceiling fan speed increment
+hey jarvis kitchen virtual ceiling fan speed reload
+hey jarvis kitchen virtual ceiling fan speed set
+hey jarvis kitchen virtual ceiling fan state reload
+hey jarvis kitchen virtual ceiling fan state toggle
+hey jarvis kitchen virtual ceiling fan state turn off
+hey jarvis kitchen virtual ceiling fan state turn on
+hey jarvis kitchen virtual ceiling fan toggle
+hey jarvis kitchen virtual ceiling fan turn off
+hey jarvis kitchen virtual ceiling fan turn on
+hey jarvis kitchen virtual ceiling light brightness decrement
+hey jarvis kitchen virtual ceiling light brightness increment
+hey jarvis kitchen virtual ceiling light brightness reload
+hey jarvis kitchen virtual ceiling light brightness set
+hey jarvis kitchen virtual ceiling light state reload
+hey jarvis kitchen virtual ceiling light state toggle
+hey jarvis kitchen virtual ceiling light state turn off
+hey jarvis kitchen virtual ceiling light state turn on
+hey jarvis kitchen virtual ceiling light toggle
+hey jarvis kitchen virtual ceiling light turn off
+hey jarvis kitchen virtual ceiling light turn on
+hey jarvis kitchen virtual coffee maker plug toggle
+hey jarvis kitchen virtual coffee maker plug turn off
+hey jarvis kitchen virtual coffee maker plug turn on
+hey jarvis kitchen virtual coffee maker state reload
+hey jarvis kitchen virtual coffee maker state toggle
+hey jarvis kitchen virtual coffee maker state turn off
+hey jarvis kitchen virtual coffee maker state turn on
+hey jarvis kitchen virtual coffee maker toggle
+hey jarvis kitchen virtual coffee maker turn off
+hey jarvis kitchen virtual coffee maker turn on
+hey jarvis kitchen virtual primary door state reload
+hey jarvis kitchen virtual primary door state toggle
+hey jarvis kitchen virtual primary door state turn off
+hey jarvis kitchen virtual primary door state turn on
+hey jarvis kitchen virtual primary lock lock
+hey jarvis kitchen virtual primary lock open
+hey jarvis kitchen virtual primary lock unlock
+hey jarvis kitchen virtual table lamp state reload
+hey jarvis kitchen virtual table lamp state toggle
+hey jarvis kitchen virtual table lamp state turn off
+hey jarvis kitchen virtual table lamp state turn on
+hey jarvis kitchen virtual table lamp toggle
+hey jarvis kitchen virtual table lamp turn off
+hey jarvis kitchen virtual table lamp turn on
+hey jarvis kitchen virtual tv plug state reload
+hey jarvis kitchen virtual tv plug state toggle
+hey jarvis kitchen virtual tv plug state turn off
+hey jarvis kitchen virtual tv plug state turn on
+hey jarvis kitchen virtual tv plug toggle
+hey jarvis kitchen virtual tv plug turn off
+hey jarvis kitchen virtual tv plug turn on
+hey jarvis light toggle
+hey jarvis light turn off
+hey jarvis light turn on
+hey jarvis lights toggle
+hey jarvis lights turn off
+hey jarvis lights turn on
+hey jarvis living room blinds close
+hey jarvis living room blinds close tilt
+hey jarvis living room blinds open
+hey jarvis living room blinds open tilt
+hey jarvis living room blinds set position
+hey jarvis living room blinds set tilt position
+hey jarvis living room blinds stop
+hey jarvis living room blinds stop tilt
+hey jarvis living room blinds toggle
+hey jarvis living room blinds toggle tilt
+hey jarvis living room covers close
+hey jarvis living room covers close tilt
+hey jarvis living room covers open
+hey jarvis living room covers open tilt
+hey jarvis living room covers set position
+hey jarvis living room covers set tilt position
+hey jarvis living room covers stop
+hey jarvis living room covers stop tilt
+hey jarvis living room covers toggle
+hey jarvis living room covers toggle tilt
+hey jarvis living room fan decrease speed
+hey jarvis living room fan increase speed
+hey jarvis living room fan oscillate
+hey jarvis living room fan set direction
+hey jarvis living room fan set preset mode
+hey jarvis living room fan set speed
+hey jarvis living room fan toggle
+hey jarvis living room fan turn off
+hey jarvis living room fan turn on
+hey jarvis living room fans decrease speed
+hey jarvis living room fans increase speed
+hey jarvis living room fans oscillate
+hey jarvis living room fans set direction
+hey jarvis living room fans set preset mode
+hey jarvis living room fans set speed
+hey jarvis living room fans toggle
+hey jarvis living room fans turn off
+hey jarvis living room fans turn on
+hey jarvis living room light toggle
+hey jarvis living room light turn off
+hey jarvis living room light turn on
+hey jarvis living room lights toggle
+hey jarvis living room lights turn off
+hey jarvis living room lights turn on
+hey jarvis living room plugs toggle
+hey jarvis living room plugs turn off
+hey jarvis living room plugs turn on
+hey jarvis living room shades close
+hey jarvis living room shades close tilt
+hey jarvis living room shades open
+hey jarvis living room shades open tilt
+hey jarvis living room shades set position
+hey jarvis living room shades set tilt position
+hey jarvis living room shades stop
+hey jarvis living room shades stop tilt
+hey jarvis living room shades toggle
+hey jarvis living room shades toggle tilt
+hey jarvis living room switch toggle
+hey jarvis living room switch turn off
+hey jarvis living room switch turn on
+hey jarvis living room switches toggle
+hey jarvis living room switches turn off
+hey jarvis living room switches turn on
+hey jarvis living room v bsensor door reload
+hey jarvis living room v bsensor door toggle
+hey jarvis living room v bsensor door turn off
+hey jarvis living room v bsensor door turn on
+hey jarvis living room v climate ac reload
+hey jarvis living room v climate ac toggle
+hey jarvis living room v climate ac turn off
+hey jarvis living room v climate ac turn on
+hey jarvis living room v climate heater reload
+hey jarvis living room v climate heater toggle
+hey jarvis living room v climate heater turn off
+hey jarvis living room v climate heater turn on
+hey jarvis living room v cover overhead reload
+hey jarvis living room v cover overhead toggle
+hey jarvis living room v cover overhead turn off
+hey jarvis living room v cover overhead turn on
+hey jarvis living room v fan desk reload
+hey jarvis living room v fan desk toggle
+hey jarvis living room v fan desk turn off
+hey jarvis living room v fan desk turn on
+hey jarvis living room v sensor humidity decrement
+hey jarvis living room v sensor humidity increment
+hey jarvis living room v sensor humidity reload
+hey jarvis living room v sensor humidity set
+hey jarvis living room v sensor temp decrement
+hey jarvis living room v sensor temp increment
+hey jarvis living room v sensor temp reload
+hey jarvis living room v sensor temp set
+hey jarvis living room virtual ac relay state reload
+hey jarvis living room virtual ac relay state toggle
+hey jarvis living room virtual ac relay state turn off
+hey jarvis living room virtual ac relay state turn on
+hey jarvis living room virtual ac relay toggle
+hey jarvis living room virtual ac relay turn off
+hey jarvis living room virtual ac relay turn on
+hey jarvis living room virtual ac thermostat set fan mode
+hey jarvis living room virtual ac thermostat set horizontal swing mode
+hey jarvis living room virtual ac thermostat set hvac mode
+hey jarvis living room virtual ac thermostat set preset mode
+hey jarvis living room virtual ac thermostat set swing mode
+hey jarvis living room virtual ac thermostat set target humidity
+hey jarvis living room virtual ac thermostat set target temperature
+hey jarvis living room virtual ac thermostat toggle
+hey jarvis living room virtual ac thermostat turn off
+hey jarvis living room virtual ac thermostat turn on
+hey jarvis living room virtual ac toggle
+hey jarvis living room virtual ac turn off
+hey jarvis living room virtual ac turn on
+hey jarvis living room virtual desk fan decrease speed
+hey jarvis living room virtual desk fan increase speed
+hey jarvis living room virtual desk fan oscillate
+hey jarvis living room virtual desk fan set direction
+hey jarvis living room virtual desk fan set preset mode
+hey jarvis living room virtual desk fan set speed
+hey jarvis living room virtual desk fan state reload
+hey jarvis living room virtual desk fan state toggle
+hey jarvis living room virtual desk fan state turn off
+hey jarvis living room virtual desk fan state turn on
+hey jarvis living room virtual desk fan toggle
+hey jarvis living room virtual desk fan turn off
+hey jarvis living room virtual desk fan turn on
+hey jarvis living room virtual door state reload
+hey jarvis living room virtual door state toggle
+hey jarvis living room virtual door state turn off
+hey jarvis living room virtual door state turn on
+hey jarvis living room virtual heater relay state reload
+hey jarvis living room virtual heater relay state toggle
+hey jarvis living room virtual heater relay state turn off
+hey jarvis living room virtual heater relay state turn on
+hey jarvis living room virtual heater relay toggle
+hey jarvis living room virtual heater relay turn off
+hey jarvis living room virtual heater relay turn on
+hey jarvis living room virtual heater toggle
+hey jarvis living room virtual heater turn off
+hey jarvis living room virtual heater turn on
+hey jarvis living room virtual humidity decrement
+hey jarvis living room virtual humidity increment
+hey jarvis living room virtual humidity reload
+hey jarvis living room virtual humidity set
+hey jarvis living room virtual overhead door close
+hey jarvis living room virtual overhead door close tilt
+hey jarvis living room virtual overhead door open
+hey jarvis living room virtual overhead door open tilt
+hey jarvis living room virtual overhead door set position
+hey jarvis living room virtual overhead door set tilt position
+hey jarvis living room virtual overhead door state reload
+hey jarvis living room virtual overhead door state toggle
+hey jarvis living room virtual overhead door state turn off
+hey jarvis living room virtual overhead door state turn on
+hey jarvis living room virtual overhead door stop
+hey jarvis living room virtual overhead door stop tilt
+hey jarvis living room virtual overhead door toggle
+hey jarvis living room virtual overhead door toggle tilt
+hey jarvis living room virtual temperature decrement
+hey jarvis living room virtual temperature increment
+hey jarvis living room virtual temperature reload
+hey jarvis living room virtual temperature set
+hey jarvis lock bedroom virtual secondary lock
+hey jarvis lock kitchen virtual primary lock
+hey jarvis lock virtual primary lock
+hey jarvis lock virtual primary lock kitchen
+hey jarvis lock virtual secondary lock
+hey jarvis lock virtual secondary lock bedroom
+hey jarvis open bedroom blinds
+hey jarvis open bedroom covers
+hey jarvis open bedroom shades
+hey jarvis open bedroom virtual secondary lock
+hey jarvis open bedroom virtual window blinds
+hey jarvis open blinds
+hey jarvis open covers
+hey jarvis open kitchen blinds
+hey jarvis open kitchen covers
+hey jarvis open kitchen shades
+hey jarvis open kitchen virtual primary lock
+hey jarvis open living room blinds
+hey jarvis open living room covers
+hey jarvis open living room shades
+hey jarvis open living room virtual overhead door
+hey jarvis open shades
+hey jarvis open the bedroom blinds
+hey jarvis open the bedroom covers
+hey jarvis open the bedroom shades
+hey jarvis open the blinds in the bedroom
+hey jarvis open the blinds in the kitchen
+hey jarvis open the blinds in the living room
+hey jarvis open the covers in the bedroom
+hey jarvis open the covers in the kitchen
+hey jarvis open the covers in the living room
+hey jarvis open the kitchen blinds
+hey jarvis open the kitchen covers
+hey jarvis open the kitchen shades
+hey jarvis open the living room blinds
+hey jarvis open the living room covers
+hey jarvis open the living room shades
+hey jarvis open the shades in the bedroom
+hey jarvis open the shades in the kitchen
+hey jarvis open the shades in the living room
+hey jarvis open tilt bedroom blinds
+hey jarvis open tilt bedroom covers
+hey jarvis open tilt bedroom shades
+hey jarvis open tilt bedroom virtual window blinds
+hey jarvis open tilt blinds
+hey jarvis open tilt covers
+hey jarvis open tilt kitchen blinds
+hey jarvis open tilt kitchen covers
+hey jarvis open tilt kitchen shades
+hey jarvis open tilt living room blinds
+hey jarvis open tilt living room covers
+hey jarvis open tilt living room shades
+hey jarvis open tilt living room virtual overhead door
+hey jarvis open tilt shades
+hey jarvis open tilt the bedroom blinds
+hey jarvis open tilt the bedroom covers
+hey jarvis open tilt the bedroom shades
+hey jarvis open tilt the blinds in the bedroom
+hey jarvis open tilt the blinds in the kitchen
+hey jarvis open tilt the blinds in the living room
+hey jarvis open tilt the covers in the bedroom
+hey jarvis open tilt the covers in the kitchen
+hey jarvis open tilt the covers in the living room
+hey jarvis open tilt the kitchen blinds
+hey jarvis open tilt the kitchen covers
+hey jarvis open tilt the kitchen shades
+hey jarvis open tilt the living room blinds
+hey jarvis open tilt the living room covers
+hey jarvis open tilt the living room shades
+hey jarvis open tilt the shades in the bedroom
+hey jarvis open tilt the shades in the kitchen
+hey jarvis open tilt the shades in the living room
+hey jarvis open tilt virtual overhead door
+hey jarvis open tilt virtual overhead door living room
+hey jarvis open tilt virtual window blinds
+hey jarvis open tilt virtual window blinds bedroom
+hey jarvis open virtual overhead door
+hey jarvis open virtual overhead door living room
+hey jarvis open virtual primary lock
+hey jarvis open virtual primary lock kitchen
+hey jarvis open virtual secondary lock
+hey jarvis open virtual secondary lock bedroom
+hey jarvis open virtual window blinds
+hey jarvis open virtual window blinds bedroom
+hey jarvis oscillate bedroom fan
+hey jarvis oscillate bedroom fans
+hey jarvis oscillate fan
+hey jarvis oscillate fans
+hey jarvis oscillate kitchen fan
+hey jarvis oscillate kitchen fans
+hey jarvis oscillate kitchen virtual ceiling fan
+hey jarvis oscillate living room fan
+hey jarvis oscillate living room fans
+hey jarvis oscillate living room virtual desk fan
+hey jarvis oscillate the bedroom fan
+hey jarvis oscillate the bedroom fans
+hey jarvis oscillate the fan in the bedroom
+hey jarvis oscillate the fan in the kitchen
+hey jarvis oscillate the fan in the living room
+hey jarvis oscillate the fans in the bedroom
+hey jarvis oscillate the fans in the kitchen
+hey jarvis oscillate the fans in the living room
+hey jarvis oscillate the kitchen fan
+hey jarvis oscillate the kitchen fans
+hey jarvis oscillate the living room fan
+hey jarvis oscillate the living room fans
+hey jarvis oscillate virtual ceiling fan
+hey jarvis oscillate virtual ceiling fan kitchen
+hey jarvis oscillate virtual desk fan
+hey jarvis oscillate virtual desk fan living room
+hey jarvis plugs toggle
+hey jarvis plugs turn off
+hey jarvis plugs turn on
+hey jarvis process home assistant
+hey jarvis reload bedroom v bsensor motion
+hey jarvis reload bedroom v cover blinds pos
+hey jarvis reload bedroom v lock secondary
+hey jarvis reload bedroom virtual motion state
+hey jarvis reload bedroom virtual secondary door state
+hey jarvis reload bedroom virtual window blinds position
+hey jarvis reload home
+hey jarvis reload home assistant
+hey jarvis reload kitchen v fan ceiling
+hey jarvis reload kitchen v fan ceiling speed
+hey jarvis reload kitchen v light ceiling
+hey jarvis reload kitchen v light ceiling brightness
+hey jarvis reload kitchen v light lamp
+hey jarvis reload kitchen v lock primary
+hey jarvis reload kitchen v switch coffee
+hey jarvis reload kitchen v switch tv
+hey jarvis reload kitchen virtual ceiling fan speed
+hey jarvis reload kitchen virtual ceiling fan state
+hey jarvis reload kitchen virtual ceiling light brightness
+hey jarvis reload kitchen virtual ceiling light state
+hey jarvis reload kitchen virtual coffee maker state
+hey jarvis reload kitchen virtual primary door state
+hey jarvis reload kitchen virtual table lamp state
+hey jarvis reload kitchen virtual tv plug state
+hey jarvis reload living room v bsensor door
+hey jarvis reload living room v climate ac
+hey jarvis reload living room v climate heater
+hey jarvis reload living room v cover overhead
+hey jarvis reload living room v fan desk
+hey jarvis reload living room v sensor humidity
+hey jarvis reload living room v sensor temp
+hey jarvis reload living room virtual ac relay state
+hey jarvis reload living room virtual desk fan state
+hey jarvis reload living room virtual door state
+hey jarvis reload living room virtual heater relay state
+hey jarvis reload living room virtual humidity
+hey jarvis reload living room virtual overhead door state
+hey jarvis reload living room virtual temperature
+hey jarvis reload stuart
+hey jarvis reload v bsensor door
+hey jarvis reload v bsensor door living room
+hey jarvis reload v bsensor motion
+hey jarvis reload v bsensor motion bedroom
+hey jarvis reload v climate ac
+hey jarvis reload v climate ac living room
+hey jarvis reload v climate heater
+hey jarvis reload v climate heater living room
+hey jarvis reload v cover blinds pos
+hey jarvis reload v cover blinds pos bedroom
+hey jarvis reload v cover overhead
+hey jarvis reload v cover overhead living room
+hey jarvis reload v fan ceiling
+hey jarvis reload v fan ceiling kitchen
+hey jarvis reload v fan ceiling speed
+hey jarvis reload v fan ceiling speed kitchen
+hey jarvis reload v fan desk
+hey jarvis reload v fan desk living room
+hey jarvis reload v light ceiling
+hey jarvis reload v light ceiling brightness
+hey jarvis reload v light ceiling brightness kitchen
+hey jarvis reload v light ceiling kitchen
+hey jarvis reload v light lamp
+hey jarvis reload v light lamp kitchen
+hey jarvis reload v lock primary
+hey jarvis reload v lock primary kitchen
+hey jarvis reload v lock secondary
+hey jarvis reload v lock secondary bedroom
+hey jarvis reload v sensor humidity
+hey jarvis reload v sensor humidity living room
+hey jarvis reload v sensor temp
+hey jarvis reload v sensor temp living room
+hey jarvis reload v switch coffee
+hey jarvis reload v switch coffee kitchen
+hey jarvis reload v switch tv
+hey jarvis reload v switch tv kitchen
+hey jarvis reload virtual ac relay state
+hey jarvis reload virtual ac relay state living room
+hey jarvis reload virtual ceiling fan speed
+hey jarvis reload virtual ceiling fan speed kitchen
+hey jarvis reload virtual ceiling fan state
+hey jarvis reload virtual ceiling fan state kitchen
+hey jarvis reload virtual ceiling light brightness
+hey jarvis reload virtual ceiling light brightness kitchen
+hey jarvis reload virtual ceiling light state
+hey jarvis reload virtual ceiling light state kitchen
+hey jarvis reload virtual coffee maker state
+hey jarvis reload virtual coffee maker state kitchen
+hey jarvis reload virtual desk fan state
+hey jarvis reload virtual desk fan state living room
+hey jarvis reload virtual door state
+hey jarvis reload virtual door state living room
+hey jarvis reload virtual heater relay state
+hey jarvis reload virtual heater relay state living room
+hey jarvis reload virtual humidity
+hey jarvis reload virtual humidity living room
+hey jarvis reload virtual motion state
+hey jarvis reload virtual motion state bedroom
+hey jarvis reload virtual overhead door state
+hey jarvis reload virtual overhead door state living room
+hey jarvis reload virtual primary door state
+hey jarvis reload virtual primary door state kitchen
+hey jarvis reload virtual secondary door state
+hey jarvis reload virtual secondary door state bedroom
+hey jarvis reload virtual table lamp state
+hey jarvis reload virtual table lamp state kitchen
+hey jarvis reload virtual temperature
+hey jarvis reload virtual temperature living room
+hey jarvis reload virtual tv plug state
+hey jarvis reload virtual tv plug state kitchen
+hey jarvis reload virtual window blinds position
+hey jarvis reload virtual window blinds position bedroom
+hey jarvis remove completed items shopping list
+hey jarvis remove item shopping list
+hey jarvis set bedroom v cover blinds pos
+hey jarvis set bedroom virtual window blinds position
+hey jarvis set direction bedroom fan
+hey jarvis set direction bedroom fans
+hey jarvis set direction fan
+hey jarvis set direction fans
+hey jarvis set direction kitchen fan
+hey jarvis set direction kitchen fans
+hey jarvis set direction kitchen virtual ceiling fan
+hey jarvis set direction living room fan
+hey jarvis set direction living room fans
+hey jarvis set direction living room virtual desk fan
+hey jarvis set direction the bedroom fan
+hey jarvis set direction the bedroom fans
+hey jarvis set direction the fan in the bedroom
+hey jarvis set direction the fan in the kitchen
+hey jarvis set direction the fan in the living room
+hey jarvis set direction the fans in the bedroom
+hey jarvis set direction the fans in the kitchen
+hey jarvis set direction the fans in the living room
+hey jarvis set direction the kitchen fan
+hey jarvis set direction the kitchen fans
+hey jarvis set direction the living room fan
+hey jarvis set direction the living room fans
+hey jarvis set direction virtual ceiling fan
+hey jarvis set direction virtual ceiling fan kitchen
+hey jarvis set direction virtual desk fan
+hey jarvis set direction virtual desk fan living room
+hey jarvis set fan mode bedroom virtual thermostat
+hey jarvis set fan mode living room virtual ac thermostat
+hey jarvis set fan mode virtual ac thermostat
+hey jarvis set fan mode virtual ac thermostat living room
+hey jarvis set fan mode virtual thermostat
+hey jarvis set fan mode virtual thermostat bedroom
+hey jarvis set horizontal swing mode bedroom virtual thermostat
+hey jarvis set horizontal swing mode living room virtual ac thermostat
+hey jarvis set horizontal swing mode virtual ac thermostat
+hey jarvis set horizontal swing mode virtual ac thermostat living room
+hey jarvis set horizontal swing mode virtual thermostat
+hey jarvis set horizontal swing mode virtual thermostat bedroom
+hey jarvis set hvac mode bedroom virtual thermostat
+hey jarvis set hvac mode living room virtual ac thermostat
+hey jarvis set hvac mode virtual ac thermostat
+hey jarvis set hvac mode virtual ac thermostat living room
+hey jarvis set hvac mode virtual thermostat
+hey jarvis set hvac mode virtual thermostat bedroom
+hey jarvis set kitchen v fan ceiling speed
+hey jarvis set kitchen v light ceiling brightness
+hey jarvis set kitchen virtual ceiling fan speed
+hey jarvis set kitchen virtual ceiling light brightness
+hey jarvis set living room v sensor humidity
+hey jarvis set living room v sensor temp
+hey jarvis set living room virtual humidity
+hey jarvis set living room virtual temperature
+hey jarvis set position bedroom blinds
+hey jarvis set position bedroom covers
+hey jarvis set position bedroom shades
+hey jarvis set position bedroom virtual window blinds
+hey jarvis set position blinds
+hey jarvis set position covers
+hey jarvis set position kitchen blinds
+hey jarvis set position kitchen covers
+hey jarvis set position kitchen shades
+hey jarvis set position living room blinds
+hey jarvis set position living room covers
+hey jarvis set position living room shades
+hey jarvis set position living room virtual overhead door
+hey jarvis set position shades
+hey jarvis set position the bedroom blinds
+hey jarvis set position the bedroom covers
+hey jarvis set position the bedroom shades
+hey jarvis set position the blinds in the bedroom
+hey jarvis set position the blinds in the kitchen
+hey jarvis set position the blinds in the living room
+hey jarvis set position the covers in the bedroom
+hey jarvis set position the covers in the kitchen
+hey jarvis set position the covers in the living room
+hey jarvis set position the kitchen blinds
+hey jarvis set position the kitchen covers
+hey jarvis set position the kitchen shades
+hey jarvis set position the living room blinds
+hey jarvis set position the living room covers
+hey jarvis set position the living room shades
+hey jarvis set position the shades in the bedroom
+hey jarvis set position the shades in the kitchen
+hey jarvis set position the shades in the living room
+hey jarvis set position virtual overhead door
+hey jarvis set position virtual overhead door living room
+hey jarvis set position virtual window blinds
+hey jarvis set position virtual window blinds bedroom
+hey jarvis set preset mode bedroom fan
+hey jarvis set preset mode bedroom fans
+hey jarvis set preset mode bedroom virtual thermostat
+hey jarvis set preset mode fan
+hey jarvis set preset mode fans
+hey jarvis set preset mode kitchen fan
+hey jarvis set preset mode kitchen fans
+hey jarvis set preset mode kitchen virtual ceiling fan
+hey jarvis set preset mode living room fan
+hey jarvis set preset mode living room fans
+hey jarvis set preset mode living room virtual ac thermostat
+hey jarvis set preset mode living room virtual desk fan
+hey jarvis set preset mode the bedroom fan
+hey jarvis set preset mode the bedroom fans
+hey jarvis set preset mode the fan in the bedroom
+hey jarvis set preset mode the fan in the kitchen
+hey jarvis set preset mode the fan in the living room
+hey jarvis set preset mode the fans in the bedroom
+hey jarvis set preset mode the fans in the kitchen
+hey jarvis set preset mode the fans in the living room
+hey jarvis set preset mode the kitchen fan
+hey jarvis set preset mode the kitchen fans
+hey jarvis set preset mode the living room fan
+hey jarvis set preset mode the living room fans
+hey jarvis set preset mode virtual ac thermostat
+hey jarvis set preset mode virtual ac thermostat living room
+hey jarvis set preset mode virtual ceiling fan
+hey jarvis set preset mode virtual ceiling fan kitchen
+hey jarvis set preset mode virtual desk fan
+hey jarvis set preset mode virtual desk fan living room
+hey jarvis set preset mode virtual thermostat
+hey jarvis set preset mode virtual thermostat bedroom
+hey jarvis set speed bedroom fan
+hey jarvis set speed bedroom fans
+hey jarvis set speed fan
+hey jarvis set speed fans
+hey jarvis set speed kitchen fan
+hey jarvis set speed kitchen fans
+hey jarvis set speed kitchen virtual ceiling fan
+hey jarvis set speed living room fan
+hey jarvis set speed living room fans
+hey jarvis set speed living room virtual desk fan
+hey jarvis set speed the bedroom fan
+hey jarvis set speed the bedroom fans
+hey jarvis set speed the fan in the bedroom
+hey jarvis set speed the fan in the kitchen
+hey jarvis set speed the fan in the living room
+hey jarvis set speed the fans in the bedroom
+hey jarvis set speed the fans in the kitchen
+hey jarvis set speed the fans in the living room
+hey jarvis set speed the kitchen fan
+hey jarvis set speed the kitchen fans
+hey jarvis set speed the living room fan
+hey jarvis set speed the living room fans
+hey jarvis set speed virtual ceiling fan
+hey jarvis set speed virtual ceiling fan kitchen
+hey jarvis set speed virtual desk fan
+hey jarvis set speed virtual desk fan living room
+hey jarvis set swing mode bedroom virtual thermostat
+hey jarvis set swing mode living room virtual ac thermostat
+hey jarvis set swing mode virtual ac thermostat
+hey jarvis set swing mode virtual ac thermostat living room
+hey jarvis set swing mode virtual thermostat
+hey jarvis set swing mode virtual thermostat bedroom
+hey jarvis set target humidity bedroom virtual thermostat
+hey jarvis set target humidity living room virtual ac thermostat
+hey jarvis set target humidity virtual ac thermostat
+hey jarvis set target humidity virtual ac thermostat living room
+hey jarvis set target humidity virtual thermostat
+hey jarvis set target humidity virtual thermostat bedroom
+hey jarvis set target temperature bedroom virtual thermostat
+hey jarvis set target temperature living room virtual ac thermostat
+hey jarvis set target temperature virtual ac thermostat
+hey jarvis set target temperature virtual ac thermostat living room
+hey jarvis set target temperature virtual thermostat
+hey jarvis set target temperature virtual thermostat bedroom
+hey jarvis set tilt position bedroom blinds
+hey jarvis set tilt position bedroom covers
+hey jarvis set tilt position bedroom shades
+hey jarvis set tilt position bedroom virtual window blinds
+hey jarvis set tilt position blinds
+hey jarvis set tilt position covers
+hey jarvis set tilt position kitchen blinds
+hey jarvis set tilt position kitchen covers
+hey jarvis set tilt position kitchen shades
+hey jarvis set tilt position living room blinds
+hey jarvis set tilt position living room covers
+hey jarvis set tilt position living room shades
+hey jarvis set tilt position living room virtual overhead door
+hey jarvis set tilt position shades
+hey jarvis set tilt position the bedroom blinds
+hey jarvis set tilt position the bedroom covers
+hey jarvis set tilt position the bedroom shades
+hey jarvis set tilt position the blinds in the bedroom
+hey jarvis set tilt position the blinds in the kitchen
+hey jarvis set tilt position the blinds in the living room
+hey jarvis set tilt position the covers in the bedroom
+hey jarvis set tilt position the covers in the kitchen
+hey jarvis set tilt position the covers in the living room
+hey jarvis set tilt position the kitchen blinds
+hey jarvis set tilt position the kitchen covers
+hey jarvis set tilt position the kitchen shades
+hey jarvis set tilt position the living room blinds
+hey jarvis set tilt position the living room covers
+hey jarvis set tilt position the living room shades
+hey jarvis set tilt position the shades in the bedroom
+hey jarvis set tilt position the shades in the kitchen
+hey jarvis set tilt position the shades in the living room
+hey jarvis set tilt position virtual overhead door
+hey jarvis set tilt position virtual overhead door living room
+hey jarvis set tilt position virtual window blinds
+hey jarvis set tilt position virtual window blinds bedroom
+hey jarvis set v cover blinds pos
+hey jarvis set v cover blinds pos bedroom
+hey jarvis set v fan ceiling speed
+hey jarvis set v fan ceiling speed kitchen
+hey jarvis set v light ceiling brightness
+hey jarvis set v light ceiling brightness kitchen
+hey jarvis set v sensor humidity
+hey jarvis set v sensor humidity living room
+hey jarvis set v sensor temp
+hey jarvis set v sensor temp living room
+hey jarvis set virtual ceiling fan speed
+hey jarvis set virtual ceiling fan speed kitchen
+hey jarvis set virtual ceiling light brightness
+hey jarvis set virtual ceiling light brightness kitchen
+hey jarvis set virtual humidity
+hey jarvis set virtual humidity living room
+hey jarvis set virtual temperature
+hey jarvis set virtual temperature living room
+hey jarvis set virtual window blinds position
+hey jarvis set virtual window blinds position bedroom
+hey jarvis shades close
+hey jarvis shades close tilt
+hey jarvis shades open
+hey jarvis shades open tilt
+hey jarvis shades set position
+hey jarvis shades set tilt position
+hey jarvis shades stop
+hey jarvis shades stop tilt
+hey jarvis shades toggle
+hey jarvis shades toggle tilt
+hey jarvis shopping list add item
+hey jarvis shopping list get items
+hey jarvis shopping list remove completed items
+hey jarvis shopping list remove item
+hey jarvis shopping list update item
+hey jarvis skip update file editor update
+hey jarvis skip update home assistant core update
+hey jarvis skip update home assistant operating system update
+hey jarvis skip update home assistant supervisor update
+hey jarvis speak google translate en com
+hey jarvis stop bedroom blinds
+hey jarvis stop bedroom covers
+hey jarvis stop bedroom shades
+hey jarvis stop bedroom virtual window blinds
+hey jarvis stop blinds
+hey jarvis stop covers
+hey jarvis stop kitchen blinds
+hey jarvis stop kitchen covers
+hey jarvis stop kitchen shades
+hey jarvis stop living room blinds
+hey jarvis stop living room covers
+hey jarvis stop living room shades
+hey jarvis stop living room virtual overhead door
+hey jarvis stop shades
+hey jarvis stop the bedroom blinds
+hey jarvis stop the bedroom covers
+hey jarvis stop the bedroom shades
+hey jarvis stop the blinds in the bedroom
+hey jarvis stop the blinds in the kitchen
+hey jarvis stop the blinds in the living room
+hey jarvis stop the covers in the bedroom
+hey jarvis stop the covers in the kitchen
+hey jarvis stop the covers in the living room
+hey jarvis stop the kitchen blinds
+hey jarvis stop the kitchen covers
+hey jarvis stop the kitchen shades
+hey jarvis stop the living room blinds
+hey jarvis stop the living room covers
+hey jarvis stop the living room shades
+hey jarvis stop the shades in the bedroom
+hey jarvis stop the shades in the kitchen
+hey jarvis stop the shades in the living room
+hey jarvis stop tilt bedroom blinds
+hey jarvis stop tilt bedroom covers
+hey jarvis stop tilt bedroom shades
+hey jarvis stop tilt bedroom virtual window blinds
+hey jarvis stop tilt blinds
+hey jarvis stop tilt covers
+hey jarvis stop tilt kitchen blinds
+hey jarvis stop tilt kitchen covers
+hey jarvis stop tilt kitchen shades
+hey jarvis stop tilt living room blinds
+hey jarvis stop tilt living room covers
+hey jarvis stop tilt living room shades
+hey jarvis stop tilt living room virtual overhead door
+hey jarvis stop tilt shades
+hey jarvis stop tilt the bedroom blinds
+hey jarvis stop tilt the bedroom covers
+hey jarvis stop tilt the bedroom shades
+hey jarvis stop tilt the blinds in the bedroom
+hey jarvis stop tilt the blinds in the kitchen
+hey jarvis stop tilt the blinds in the living room
+hey jarvis stop tilt the covers in the bedroom
+hey jarvis stop tilt the covers in the kitchen
+hey jarvis stop tilt the covers in the living room
+hey jarvis stop tilt the kitchen blinds
+hey jarvis stop tilt the kitchen covers
+hey jarvis stop tilt the kitchen shades
+hey jarvis stop tilt the living room blinds
+hey jarvis stop tilt the living room covers
+hey jarvis stop tilt the living room shades
+hey jarvis stop tilt the shades in the bedroom
+hey jarvis stop tilt the shades in the kitchen
+hey jarvis stop tilt the shades in the living room
+hey jarvis stop tilt virtual overhead door
+hey jarvis stop tilt virtual overhead door living room
+hey jarvis stop tilt virtual window blinds
+hey jarvis stop tilt virtual window blinds bedroom
+hey jarvis stop virtual overhead door
+hey jarvis stop virtual overhead door living room
+hey jarvis stop virtual window blinds
+hey jarvis stop virtual window blinds bedroom
+hey jarvis stuart reload
+hey jarvis switch toggle
+hey jarvis switch turn off
+hey jarvis switch turn on
+hey jarvis switches toggle
+hey jarvis switches turn off
+hey jarvis switches turn on
+hey jarvis toggle bedroom blinds
+hey jarvis toggle bedroom covers
+hey jarvis toggle bedroom fan
+hey jarvis toggle bedroom fans
+hey jarvis toggle bedroom light
+hey jarvis toggle bedroom lights
+hey jarvis toggle bedroom plugs
+hey jarvis toggle bedroom shades
+hey jarvis toggle bedroom switch
+hey jarvis toggle bedroom switches
+hey jarvis toggle bedroom v bsensor motion
+hey jarvis toggle bedroom v lock secondary
+hey jarvis toggle bedroom virtual motion state
+hey jarvis toggle bedroom virtual secondary door state
+hey jarvis toggle bedroom virtual thermostat
+hey jarvis toggle bedroom virtual window blinds
+hey jarvis toggle blinds
+hey jarvis toggle covers
+hey jarvis toggle fan
+hey jarvis toggle fans
+hey jarvis toggle kitchen blinds
+hey jarvis toggle kitchen covers
+hey jarvis toggle kitchen fan
+hey jarvis toggle kitchen fans
+hey jarvis toggle kitchen light
+hey jarvis toggle kitchen lights
+hey jarvis toggle kitchen plugs
+hey jarvis toggle kitchen shades
+hey jarvis toggle kitchen switch
+hey jarvis toggle kitchen switches
+hey jarvis toggle kitchen v fan ceiling
+hey jarvis toggle kitchen v light ceiling
+hey jarvis toggle kitchen v light lamp
+hey jarvis toggle kitchen v lock primary
+hey jarvis toggle kitchen v switch coffee
+hey jarvis toggle kitchen v switch tv
+hey jarvis toggle kitchen virtual ceiling fan
+hey jarvis toggle kitchen virtual ceiling fan state
+hey jarvis toggle kitchen virtual ceiling light
+hey jarvis toggle kitchen virtual ceiling light state
+hey jarvis toggle kitchen virtual coffee maker
+hey jarvis toggle kitchen virtual coffee maker plug
+hey jarvis toggle kitchen virtual coffee maker state
+hey jarvis toggle kitchen virtual primary door state
+hey jarvis toggle kitchen virtual table lamp
+hey jarvis toggle kitchen virtual table lamp state
+hey jarvis toggle kitchen virtual tv plug
+hey jarvis toggle kitchen virtual tv plug state
+hey jarvis toggle light
+hey jarvis toggle lights
+hey jarvis toggle living room blinds
+hey jarvis toggle living room covers
+hey jarvis toggle living room fan
+hey jarvis toggle living room fans
+hey jarvis toggle living room light
+hey jarvis toggle living room lights
+hey jarvis toggle living room plugs
+hey jarvis toggle living room shades
+hey jarvis toggle living room switch
+hey jarvis toggle living room switches
+hey jarvis toggle living room v bsensor door
+hey jarvis toggle living room v climate ac
+hey jarvis toggle living room v climate heater
+hey jarvis toggle living room v cover overhead
+hey jarvis toggle living room v fan desk
+hey jarvis toggle living room virtual ac
+hey jarvis toggle living room virtual ac relay
+hey jarvis toggle living room virtual ac relay state
+hey jarvis toggle living room virtual ac thermostat
+hey jarvis toggle living room virtual desk fan
+hey jarvis toggle living room virtual desk fan state
+hey jarvis toggle living room virtual door state
+hey jarvis toggle living room virtual heater
+hey jarvis toggle living room virtual heater relay
+hey jarvis toggle living room virtual heater relay state
+hey jarvis toggle living room virtual overhead door
+hey jarvis toggle living room virtual overhead door state
+hey jarvis toggle plugs
+hey jarvis toggle shades
+hey jarvis toggle switch
+hey jarvis toggle switches
+hey jarvis toggle the bedroom blinds
+hey jarvis toggle the bedroom covers
+hey jarvis toggle the bedroom fan
+hey jarvis toggle the bedroom fans
+hey jarvis toggle the bedroom light
+hey jarvis toggle the bedroom lights
+hey jarvis toggle the bedroom plugs
+hey jarvis toggle the bedroom shades
+hey jarvis toggle the bedroom switch
+hey jarvis toggle the bedroom switches
+hey jarvis toggle the blinds in the bedroom
+hey jarvis toggle the blinds in the kitchen
+hey jarvis toggle the blinds in the living room
+hey jarvis toggle the covers in the bedroom
+hey jarvis toggle the covers in the kitchen
+hey jarvis toggle the covers in the living room
+hey jarvis toggle the fan in the bedroom
+hey jarvis toggle the fan in the kitchen
+hey jarvis toggle the fan in the living room
+hey jarvis toggle the fans in the bedroom
+hey jarvis toggle the fans in the kitchen
+hey jarvis toggle the fans in the living room
+hey jarvis toggle the kitchen blinds
+hey jarvis toggle the kitchen covers
+hey jarvis toggle the kitchen fan
+hey jarvis toggle the kitchen fans
+hey jarvis toggle the kitchen light
+hey jarvis toggle the kitchen lights
+hey jarvis toggle the kitchen plugs
+hey jarvis toggle the kitchen shades
+hey jarvis toggle the kitchen switch
+hey jarvis toggle the kitchen switches
+hey jarvis toggle the light in the bedroom
+hey jarvis toggle the light in the kitchen
+hey jarvis toggle the light in the living room
+hey jarvis toggle the lights in the bedroom
+hey jarvis toggle the lights in the kitchen
+hey jarvis toggle the lights in the living room
+hey jarvis toggle the living room blinds
+hey jarvis toggle the living room covers
+hey jarvis toggle the living room fan
+hey jarvis toggle the living room fans
+hey jarvis toggle the living room light
+hey jarvis toggle the living room lights
+hey jarvis toggle the living room plugs
+hey jarvis toggle the living room shades
+hey jarvis toggle the living room switch
+hey jarvis toggle the living room switches
+hey jarvis toggle the plugs in the bedroom
+hey jarvis toggle the plugs in the kitchen
+hey jarvis toggle the plugs in the living room
+hey jarvis toggle the shades in the bedroom
+hey jarvis toggle the shades in the kitchen
+hey jarvis toggle the shades in the living room
+hey jarvis toggle the switch in the bedroom
+hey jarvis toggle the switch in the kitchen
+hey jarvis toggle the switch in the living room
+hey jarvis toggle the switches in the bedroom
+hey jarvis toggle the switches in the kitchen
+hey jarvis toggle the switches in the living room
+hey jarvis toggle tilt bedroom blinds
+hey jarvis toggle tilt bedroom covers
+hey jarvis toggle tilt bedroom shades
+hey jarvis toggle tilt bedroom virtual window blinds
+hey jarvis toggle tilt blinds
+hey jarvis toggle tilt covers
+hey jarvis toggle tilt kitchen blinds
+hey jarvis toggle tilt kitchen covers
+hey jarvis toggle tilt kitchen shades
+hey jarvis toggle tilt living room blinds
+hey jarvis toggle tilt living room covers
+hey jarvis toggle tilt living room shades
+hey jarvis toggle tilt living room virtual overhead door
+hey jarvis toggle tilt shades
+hey jarvis toggle tilt the bedroom blinds
+hey jarvis toggle tilt the bedroom covers
+hey jarvis toggle tilt the bedroom shades
+hey jarvis toggle tilt the blinds in the bedroom
+hey jarvis toggle tilt the blinds in the kitchen
+hey jarvis toggle tilt the blinds in the living room
+hey jarvis toggle tilt the covers in the bedroom
+hey jarvis toggle tilt the covers in the kitchen
+hey jarvis toggle tilt the covers in the living room
+hey jarvis toggle tilt the kitchen blinds
+hey jarvis toggle tilt the kitchen covers
+hey jarvis toggle tilt the kitchen shades
+hey jarvis toggle tilt the living room blinds
+hey jarvis toggle tilt the living room covers
+hey jarvis toggle tilt the living room shades
+hey jarvis toggle tilt the shades in the bedroom
+hey jarvis toggle tilt the shades in the kitchen
+hey jarvis toggle tilt the shades in the living room
+hey jarvis toggle tilt virtual overhead door
+hey jarvis toggle tilt virtual overhead door living room
+hey jarvis toggle tilt virtual window blinds
+hey jarvis toggle tilt virtual window blinds bedroom
+hey jarvis toggle v bsensor door
+hey jarvis toggle v bsensor door living room
+hey jarvis toggle v bsensor motion
+hey jarvis toggle v bsensor motion bedroom
+hey jarvis toggle v climate ac
+hey jarvis toggle v climate ac living room
+hey jarvis toggle v climate heater
+hey jarvis toggle v climate heater living room
+hey jarvis toggle v cover overhead
+hey jarvis toggle v cover overhead living room
+hey jarvis toggle v fan ceiling
+hey jarvis toggle v fan ceiling kitchen
+hey jarvis toggle v fan desk
+hey jarvis toggle v fan desk living room
+hey jarvis toggle v light ceiling
+hey jarvis toggle v light ceiling kitchen
+hey jarvis toggle v light lamp
+hey jarvis toggle v light lamp kitchen
+hey jarvis toggle v lock primary
+hey jarvis toggle v lock primary kitchen
+hey jarvis toggle v lock secondary
+hey jarvis toggle v lock secondary bedroom
+hey jarvis toggle v switch coffee
+hey jarvis toggle v switch coffee kitchen
+hey jarvis toggle v switch tv
+hey jarvis toggle v switch tv kitchen
+hey jarvis toggle virtual ac
+hey jarvis toggle virtual ac living room
+hey jarvis toggle virtual ac relay
+hey jarvis toggle virtual ac relay living room
+hey jarvis toggle virtual ac relay state
+hey jarvis toggle virtual ac relay state living room
+hey jarvis toggle virtual ac thermostat
+hey jarvis toggle virtual ac thermostat living room
+hey jarvis toggle virtual ceiling fan
+hey jarvis toggle virtual ceiling fan kitchen
+hey jarvis toggle virtual ceiling fan state
+hey jarvis toggle virtual ceiling fan state kitchen
+hey jarvis toggle virtual ceiling light
+hey jarvis toggle virtual ceiling light kitchen
+hey jarvis toggle virtual ceiling light state
+hey jarvis toggle virtual ceiling light state kitchen
+hey jarvis toggle virtual coffee maker
+hey jarvis toggle virtual coffee maker kitchen
+hey jarvis toggle virtual coffee maker plug
+hey jarvis toggle virtual coffee maker plug kitchen
+hey jarvis toggle virtual coffee maker state
+hey jarvis toggle virtual coffee maker state kitchen
+hey jarvis toggle virtual desk fan
+hey jarvis toggle virtual desk fan living room
+hey jarvis toggle virtual desk fan state
+hey jarvis toggle virtual desk fan state living room
+hey jarvis toggle virtual door state
+hey jarvis toggle virtual door state living room
+hey jarvis toggle virtual heater
+hey jarvis toggle virtual heater living room
+hey jarvis toggle virtual heater relay
+hey jarvis toggle virtual heater relay living room
+hey jarvis toggle virtual heater relay state
+hey jarvis toggle virtual heater relay state living room
+hey jarvis toggle virtual motion state
+hey jarvis toggle virtual motion state bedroom
+hey jarvis toggle virtual overhead door
+hey jarvis toggle virtual overhead door living room
+hey jarvis toggle virtual overhead door state
+hey jarvis toggle virtual overhead door state living room
+hey jarvis toggle virtual primary door state
+hey jarvis toggle virtual primary door state kitchen
+hey jarvis toggle virtual secondary door state
+hey jarvis toggle virtual secondary door state bedroom
+hey jarvis toggle virtual table lamp
+hey jarvis toggle virtual table lamp kitchen
+hey jarvis toggle virtual table lamp state
+hey jarvis toggle virtual table lamp state kitchen
+hey jarvis toggle virtual thermostat
+hey jarvis toggle virtual thermostat bedroom
+hey jarvis toggle virtual tv plug
+hey jarvis toggle virtual tv plug kitchen
+hey jarvis toggle virtual tv plug state
+hey jarvis toggle virtual tv plug state kitchen
+hey jarvis toggle virtual window blinds
+hey jarvis toggle virtual window blinds bedroom
+hey jarvis turn off bedroom fan
+hey jarvis turn off bedroom fans
+hey jarvis turn off bedroom light
+hey jarvis turn off bedroom lights
+hey jarvis turn off bedroom plugs
+hey jarvis turn off bedroom switch
+hey jarvis turn off bedroom switches
+hey jarvis turn off bedroom v bsensor motion
+hey jarvis turn off bedroom v lock secondary
+hey jarvis turn off bedroom virtual motion state
+hey jarvis turn off bedroom virtual secondary door state
+hey jarvis turn off bedroom virtual thermostat
+hey jarvis turn off fan
+hey jarvis turn off fans
+hey jarvis turn off kitchen fan
+hey jarvis turn off kitchen fans
+hey jarvis turn off kitchen light
+hey jarvis turn off kitchen lights
+hey jarvis turn off kitchen plugs
+hey jarvis turn off kitchen switch
+hey jarvis turn off kitchen switches
+hey jarvis turn off kitchen v fan ceiling
+hey jarvis turn off kitchen v light ceiling
+hey jarvis turn off kitchen v light lamp
+hey jarvis turn off kitchen v lock primary
+hey jarvis turn off kitchen v switch coffee
+hey jarvis turn off kitchen v switch tv
+hey jarvis turn off kitchen virtual ceiling fan
+hey jarvis turn off kitchen virtual ceiling fan state
+hey jarvis turn off kitchen virtual ceiling light
+hey jarvis turn off kitchen virtual ceiling light state
+hey jarvis turn off kitchen virtual coffee maker
+hey jarvis turn off kitchen virtual coffee maker plug
+hey jarvis turn off kitchen virtual coffee maker state
+hey jarvis turn off kitchen virtual primary door state
+hey jarvis turn off kitchen virtual table lamp
+hey jarvis turn off kitchen virtual table lamp state
+hey jarvis turn off kitchen virtual tv plug
+hey jarvis turn off kitchen virtual tv plug state
+hey jarvis turn off light
+hey jarvis turn off lights
+hey jarvis turn off living room fan
+hey jarvis turn off living room fans
+hey jarvis turn off living room light
+hey jarvis turn off living room lights
+hey jarvis turn off living room plugs
+hey jarvis turn off living room switch
+hey jarvis turn off living room switches
+hey jarvis turn off living room v bsensor door
+hey jarvis turn off living room v climate ac
+hey jarvis turn off living room v climate heater
+hey jarvis turn off living room v cover overhead
+hey jarvis turn off living room v fan desk
+hey jarvis turn off living room virtual ac
+hey jarvis turn off living room virtual ac relay
+hey jarvis turn off living room virtual ac relay state
+hey jarvis turn off living room virtual ac thermostat
+hey jarvis turn off living room virtual desk fan
+hey jarvis turn off living room virtual desk fan state
+hey jarvis turn off living room virtual door state
+hey jarvis turn off living room virtual heater
+hey jarvis turn off living room virtual heater relay
+hey jarvis turn off living room virtual heater relay state
+hey jarvis turn off living room virtual overhead door state
+hey jarvis turn off plugs
+hey jarvis turn off switch
+hey jarvis turn off switches
+hey jarvis turn off the bedroom fan
+hey jarvis turn off the bedroom fans
+hey jarvis turn off the bedroom light
+hey jarvis turn off the bedroom lights
+hey jarvis turn off the bedroom plugs
+hey jarvis turn off the bedroom switch
+hey jarvis turn off the bedroom switches
+hey jarvis turn off the fan in the bedroom
+hey jarvis turn off the fan in the kitchen
+hey jarvis turn off the fan in the living room
+hey jarvis turn off the fans in the bedroom
+hey jarvis turn off the fans in the kitchen
+hey jarvis turn off the fans in the living room
+hey jarvis turn off the kitchen fan
+hey jarvis turn off the kitchen fans
+hey jarvis turn off the kitchen light
+hey jarvis turn off the kitchen lights
+hey jarvis turn off the kitchen plugs
+hey jarvis turn off the kitchen switch
+hey jarvis turn off the kitchen switches
+hey jarvis turn off the light in the bedroom
+hey jarvis turn off the light in the kitchen
+hey jarvis turn off the light in the living room
+hey jarvis turn off the lights in the bedroom
+hey jarvis turn off the lights in the kitchen
+hey jarvis turn off the lights in the living room
+hey jarvis turn off the living room fan
+hey jarvis turn off the living room fans
+hey jarvis turn off the living room light
+hey jarvis turn off the living room lights
+hey jarvis turn off the living room plugs
+hey jarvis turn off the living room switch
+hey jarvis turn off the living room switches
+hey jarvis turn off the plugs in the bedroom
+hey jarvis turn off the plugs in the kitchen
+hey jarvis turn off the plugs in the living room
+hey jarvis turn off the switch in the bedroom
+hey jarvis turn off the switch in the kitchen
+hey jarvis turn off the switch in the living room
+hey jarvis turn off the switches in the bedroom
+hey jarvis turn off the switches in the kitchen
+hey jarvis turn off the switches in the living room
+hey jarvis turn off v bsensor door
+hey jarvis turn off v bsensor door living room
+hey jarvis turn off v bsensor motion
+hey jarvis turn off v bsensor motion bedroom
+hey jarvis turn off v climate ac
+hey jarvis turn off v climate ac living room
+hey jarvis turn off v climate heater
+hey jarvis turn off v climate heater living room
+hey jarvis turn off v cover overhead
+hey jarvis turn off v cover overhead living room
+hey jarvis turn off v fan ceiling
+hey jarvis turn off v fan ceiling kitchen
+hey jarvis turn off v fan desk
+hey jarvis turn off v fan desk living room
+hey jarvis turn off v light ceiling
+hey jarvis turn off v light ceiling kitchen
+hey jarvis turn off v light lamp
+hey jarvis turn off v light lamp kitchen
+hey jarvis turn off v lock primary
+hey jarvis turn off v lock primary kitchen
+hey jarvis turn off v lock secondary
+hey jarvis turn off v lock secondary bedroom
+hey jarvis turn off v switch coffee
+hey jarvis turn off v switch coffee kitchen
+hey jarvis turn off v switch tv
+hey jarvis turn off v switch tv kitchen
+hey jarvis turn off virtual ac
+hey jarvis turn off virtual ac living room
+hey jarvis turn off virtual ac relay
+hey jarvis turn off virtual ac relay living room
+hey jarvis turn off virtual ac relay state
+hey jarvis turn off virtual ac relay state living room
+hey jarvis turn off virtual ac thermostat
+hey jarvis turn off virtual ac thermostat living room
+hey jarvis turn off virtual ceiling fan
+hey jarvis turn off virtual ceiling fan kitchen
+hey jarvis turn off virtual ceiling fan state
+hey jarvis turn off virtual ceiling fan state kitchen
+hey jarvis turn off virtual ceiling light
+hey jarvis turn off virtual ceiling light kitchen
+hey jarvis turn off virtual ceiling light state
+hey jarvis turn off virtual ceiling light state kitchen
+hey jarvis turn off virtual coffee maker
+hey jarvis turn off virtual coffee maker kitchen
+hey jarvis turn off virtual coffee maker plug
+hey jarvis turn off virtual coffee maker plug kitchen
+hey jarvis turn off virtual coffee maker state
+hey jarvis turn off virtual coffee maker state kitchen
+hey jarvis turn off virtual desk fan
+hey jarvis turn off virtual desk fan living room
+hey jarvis turn off virtual desk fan state
+hey jarvis turn off virtual desk fan state living room
+hey jarvis turn off virtual door state
+hey jarvis turn off virtual door state living room
+hey jarvis turn off virtual heater
+hey jarvis turn off virtual heater living room
+hey jarvis turn off virtual heater relay
+hey jarvis turn off virtual heater relay living room
+hey jarvis turn off virtual heater relay state
+hey jarvis turn off virtual heater relay state living room
+hey jarvis turn off virtual motion state
+hey jarvis turn off virtual motion state bedroom
+hey jarvis turn off virtual overhead door state
+hey jarvis turn off virtual overhead door state living room
+hey jarvis turn off virtual primary door state
+hey jarvis turn off virtual primary door state kitchen
+hey jarvis turn off virtual secondary door state
+hey jarvis turn off virtual secondary door state bedroom
+hey jarvis turn off virtual table lamp
+hey jarvis turn off virtual table lamp kitchen
+hey jarvis turn off virtual table lamp state
+hey jarvis turn off virtual table lamp state kitchen
+hey jarvis turn off virtual thermostat
+hey jarvis turn off virtual thermostat bedroom
+hey jarvis turn off virtual tv plug
+hey jarvis turn off virtual tv plug kitchen
+hey jarvis turn off virtual tv plug state
+hey jarvis turn off virtual tv plug state kitchen
+hey jarvis turn on bedroom fan
+hey jarvis turn on bedroom fans
+hey jarvis turn on bedroom light
+hey jarvis turn on bedroom lights
+hey jarvis turn on bedroom plugs
+hey jarvis turn on bedroom switch
+hey jarvis turn on bedroom switches
+hey jarvis turn on bedroom v bsensor motion
+hey jarvis turn on bedroom v lock secondary
+hey jarvis turn on bedroom virtual motion state
+hey jarvis turn on bedroom virtual secondary door state
+hey jarvis turn on bedroom virtual thermostat
+hey jarvis turn on fan
+hey jarvis turn on fans
+hey jarvis turn on kitchen fan
+hey jarvis turn on kitchen fans
+hey jarvis turn on kitchen light
+hey jarvis turn on kitchen lights
+hey jarvis turn on kitchen plugs
+hey jarvis turn on kitchen switch
+hey jarvis turn on kitchen switches
+hey jarvis turn on kitchen v fan ceiling
+hey jarvis turn on kitchen v light ceiling
+hey jarvis turn on kitchen v light lamp
+hey jarvis turn on kitchen v lock primary
+hey jarvis turn on kitchen v switch coffee
+hey jarvis turn on kitchen v switch tv
+hey jarvis turn on kitchen virtual ceiling fan
+hey jarvis turn on kitchen virtual ceiling fan state
+hey jarvis turn on kitchen virtual ceiling light
+hey jarvis turn on kitchen virtual ceiling light state
+hey jarvis turn on kitchen virtual coffee maker
+hey jarvis turn on kitchen virtual coffee maker plug
+hey jarvis turn on kitchen virtual coffee maker state
+hey jarvis turn on kitchen virtual primary door state
+hey jarvis turn on kitchen virtual table lamp
+hey jarvis turn on kitchen virtual table lamp state
+hey jarvis turn on kitchen virtual tv plug
+hey jarvis turn on kitchen virtual tv plug state
+hey jarvis turn on light
+hey jarvis turn on lights
+hey jarvis turn on living room fan
+hey jarvis turn on living room fans
+hey jarvis turn on living room light
+hey jarvis turn on living room lights
+hey jarvis turn on living room plugs
+hey jarvis turn on living room switch
+hey jarvis turn on living room switches
+hey jarvis turn on living room v bsensor door
+hey jarvis turn on living room v climate ac
+hey jarvis turn on living room v climate heater
+hey jarvis turn on living room v cover overhead
+hey jarvis turn on living room v fan desk
+hey jarvis turn on living room virtual ac
+hey jarvis turn on living room virtual ac relay
+hey jarvis turn on living room virtual ac relay state
+hey jarvis turn on living room virtual ac thermostat
+hey jarvis turn on living room virtual desk fan
+hey jarvis turn on living room virtual desk fan state
+hey jarvis turn on living room virtual door state
+hey jarvis turn on living room virtual heater
+hey jarvis turn on living room virtual heater relay
+hey jarvis turn on living room virtual heater relay state
+hey jarvis turn on living room virtual overhead door state
+hey jarvis turn on plugs
+hey jarvis turn on switch
+hey jarvis turn on switches
+hey jarvis turn on the bedroom fan
+hey jarvis turn on the bedroom fans
+hey jarvis turn on the bedroom light
+hey jarvis turn on the bedroom lights
+hey jarvis turn on the bedroom plugs
+hey jarvis turn on the bedroom switch
+hey jarvis turn on the bedroom switches
+hey jarvis turn on the fan in the bedroom
+hey jarvis turn on the fan in the kitchen
+hey jarvis turn on the fan in the living room
+hey jarvis turn on the fans in the bedroom
+hey jarvis turn on the fans in the kitchen
+hey jarvis turn on the fans in the living room
+hey jarvis turn on the kitchen fan
+hey jarvis turn on the kitchen fans
+hey jarvis turn on the kitchen light
+hey jarvis turn on the kitchen lights
+hey jarvis turn on the kitchen plugs
+hey jarvis turn on the kitchen switch
+hey jarvis turn on the kitchen switches
+hey jarvis turn on the light in the bedroom
+hey jarvis turn on the light in the kitchen
+hey jarvis turn on the light in the living room
+hey jarvis turn on the lights in the bedroom
+hey jarvis turn on the lights in the kitchen
+hey jarvis turn on the lights in the living room
+hey jarvis turn on the living room fan
+hey jarvis turn on the living room fans
+hey jarvis turn on the living room light
+hey jarvis turn on the living room lights
+hey jarvis turn on the living room plugs
+hey jarvis turn on the living room switch
+hey jarvis turn on the living room switches
+hey jarvis turn on the plugs in the bedroom
+hey jarvis turn on the plugs in the kitchen
+hey jarvis turn on the plugs in the living room
+hey jarvis turn on the switch in the bedroom
+hey jarvis turn on the switch in the kitchen
+hey jarvis turn on the switch in the living room
+hey jarvis turn on the switches in the bedroom
+hey jarvis turn on the switches in the kitchen
+hey jarvis turn on the switches in the living room
+hey jarvis turn on v bsensor door
+hey jarvis turn on v bsensor door living room
+hey jarvis turn on v bsensor motion
+hey jarvis turn on v bsensor motion bedroom
+hey jarvis turn on v climate ac
+hey jarvis turn on v climate ac living room
+hey jarvis turn on v climate heater
+hey jarvis turn on v climate heater living room
+hey jarvis turn on v cover overhead
+hey jarvis turn on v cover overhead living room
+hey jarvis turn on v fan ceiling
+hey jarvis turn on v fan ceiling kitchen
+hey jarvis turn on v fan desk
+hey jarvis turn on v fan desk living room
+hey jarvis turn on v light ceiling
+hey jarvis turn on v light ceiling kitchen
+hey jarvis turn on v light lamp
+hey jarvis turn on v light lamp kitchen
+hey jarvis turn on v lock primary
+hey jarvis turn on v lock primary kitchen
+hey jarvis turn on v lock secondary
+hey jarvis turn on v lock secondary bedroom
+hey jarvis turn on v switch coffee
+hey jarvis turn on v switch coffee kitchen
+hey jarvis turn on v switch tv
+hey jarvis turn on v switch tv kitchen
+hey jarvis turn on virtual ac
+hey jarvis turn on virtual ac living room
+hey jarvis turn on virtual ac relay
+hey jarvis turn on virtual ac relay living room
+hey jarvis turn on virtual ac relay state
+hey jarvis turn on virtual ac relay state living room
+hey jarvis turn on virtual ac thermostat
+hey jarvis turn on virtual ac thermostat living room
+hey jarvis turn on virtual ceiling fan
+hey jarvis turn on virtual ceiling fan kitchen
+hey jarvis turn on virtual ceiling fan state
+hey jarvis turn on virtual ceiling fan state kitchen
+hey jarvis turn on virtual ceiling light
+hey jarvis turn on virtual ceiling light kitchen
+hey jarvis turn on virtual ceiling light state
+hey jarvis turn on virtual ceiling light state kitchen
+hey jarvis turn on virtual coffee maker
+hey jarvis turn on virtual coffee maker kitchen
+hey jarvis turn on virtual coffee maker plug
+hey jarvis turn on virtual coffee maker plug kitchen
+hey jarvis turn on virtual coffee maker state
+hey jarvis turn on virtual coffee maker state kitchen
+hey jarvis turn on virtual desk fan
+hey jarvis turn on virtual desk fan living room
+hey jarvis turn on virtual desk fan state
+hey jarvis turn on virtual desk fan state living room
+hey jarvis turn on virtual door state
+hey jarvis turn on virtual door state living room
+hey jarvis turn on virtual heater
+hey jarvis turn on virtual heater living room
+hey jarvis turn on virtual heater relay
+hey jarvis turn on virtual heater relay living room
+hey jarvis turn on virtual heater relay state
+hey jarvis turn on virtual heater relay state living room
+hey jarvis turn on virtual motion state
+hey jarvis turn on virtual motion state bedroom
+hey jarvis turn on virtual overhead door state
+hey jarvis turn on virtual overhead door state living room
+hey jarvis turn on virtual primary door state
+hey jarvis turn on virtual primary door state kitchen
+hey jarvis turn on virtual secondary door state
+hey jarvis turn on virtual secondary door state bedroom
+hey jarvis turn on virtual table lamp
+hey jarvis turn on virtual table lamp kitchen
+hey jarvis turn on virtual table lamp state
+hey jarvis turn on virtual table lamp state kitchen
+hey jarvis turn on virtual thermostat
+hey jarvis turn on virtual thermostat bedroom
+hey jarvis turn on virtual tv plug
+hey jarvis turn on virtual tv plug kitchen
+hey jarvis turn on virtual tv plug state
+hey jarvis turn on virtual tv plug state kitchen
+hey jarvis unlock bedroom virtual secondary lock
+hey jarvis unlock kitchen virtual primary lock
+hey jarvis unlock virtual primary lock
+hey jarvis unlock virtual primary lock kitchen
+hey jarvis unlock virtual secondary lock
+hey jarvis unlock virtual secondary lock bedroom
+hey jarvis update item shopping list
+hey jarvis v bsensor door reload
+hey jarvis v bsensor door toggle
+hey jarvis v bsensor door turn off
+hey jarvis v bsensor door turn on
+hey jarvis v bsensor motion reload
+hey jarvis v bsensor motion toggle
+hey jarvis v bsensor motion turn off
+hey jarvis v bsensor motion turn on
+hey jarvis v climate ac reload
+hey jarvis v climate ac toggle
+hey jarvis v climate ac turn off
+hey jarvis v climate ac turn on
+hey jarvis v climate heater reload
+hey jarvis v climate heater toggle
+hey jarvis v climate heater turn off
+hey jarvis v climate heater turn on
+hey jarvis v cover blinds pos decrement
+hey jarvis v cover blinds pos increment
+hey jarvis v cover blinds pos reload
+hey jarvis v cover blinds pos set
+hey jarvis v cover overhead reload
+hey jarvis v cover overhead toggle
+hey jarvis v cover overhead turn off
+hey jarvis v cover overhead turn on
+hey jarvis v fan ceiling reload
+hey jarvis v fan ceiling speed decrement
+hey jarvis v fan ceiling speed increment
+hey jarvis v fan ceiling speed reload
+hey jarvis v fan ceiling speed set
+hey jarvis v fan ceiling toggle
+hey jarvis v fan ceiling turn off
+hey jarvis v fan ceiling turn on
+hey jarvis v fan desk reload
+hey jarvis v fan desk toggle
+hey jarvis v fan desk turn off
+hey jarvis v fan desk turn on
+hey jarvis v light ceiling brightness decrement
+hey jarvis v light ceiling brightness increment
+hey jarvis v light ceiling brightness reload
+hey jarvis v light ceiling brightness set
+hey jarvis v light ceiling reload
+hey jarvis v light ceiling toggle
+hey jarvis v light ceiling turn off
+hey jarvis v light ceiling turn on
+hey jarvis v light lamp reload
+hey jarvis v light lamp toggle
+hey jarvis v light lamp turn off
+hey jarvis v light lamp turn on
+hey jarvis v lock primary reload
+hey jarvis v lock primary toggle
+hey jarvis v lock primary turn off
+hey jarvis v lock primary turn on
+hey jarvis v lock secondary reload
+hey jarvis v lock secondary toggle
+hey jarvis v lock secondary turn off
+hey jarvis v lock secondary turn on
+hey jarvis v sensor humidity decrement
+hey jarvis v sensor humidity increment
+hey jarvis v sensor humidity reload
+hey jarvis v sensor humidity set
+hey jarvis v sensor temp decrement
+hey jarvis v sensor temp increment
+hey jarvis v sensor temp reload
+hey jarvis v sensor temp set
+hey jarvis v switch coffee reload
+hey jarvis v switch coffee toggle
+hey jarvis v switch coffee turn off
+hey jarvis v switch coffee turn on
+hey jarvis v switch tv reload
+hey jarvis v switch tv toggle
+hey jarvis v switch tv turn off
+hey jarvis v switch tv turn on
+hey jarvis virtual ac relay state reload
+hey jarvis virtual ac relay state toggle
+hey jarvis virtual ac relay state turn off
+hey jarvis virtual ac relay state turn on
+hey jarvis virtual ac relay toggle
+hey jarvis virtual ac relay turn off
+hey jarvis virtual ac relay turn on
+hey jarvis virtual ac thermostat set fan mode
+hey jarvis virtual ac thermostat set horizontal swing mode
+hey jarvis virtual ac thermostat set hvac mode
+hey jarvis virtual ac thermostat set preset mode
+hey jarvis virtual ac thermostat set swing mode
+hey jarvis virtual ac thermostat set target humidity
+hey jarvis virtual ac thermostat set target temperature
+hey jarvis virtual ac thermostat toggle
+hey jarvis virtual ac thermostat turn off
+hey jarvis virtual ac thermostat turn on
+hey jarvis virtual ac toggle
+hey jarvis virtual ac turn off
+hey jarvis virtual ac turn on
+hey jarvis virtual ceiling fan decrease speed
+hey jarvis virtual ceiling fan increase speed
+hey jarvis virtual ceiling fan oscillate
+hey jarvis virtual ceiling fan set direction
+hey jarvis virtual ceiling fan set preset mode
+hey jarvis virtual ceiling fan set speed
+hey jarvis virtual ceiling fan speed decrement
+hey jarvis virtual ceiling fan speed increment
+hey jarvis virtual ceiling fan speed reload
+hey jarvis virtual ceiling fan speed set
+hey jarvis virtual ceiling fan state reload
+hey jarvis virtual ceiling fan state toggle
+hey jarvis virtual ceiling fan state turn off
+hey jarvis virtual ceiling fan state turn on
+hey jarvis virtual ceiling fan toggle
+hey jarvis virtual ceiling fan turn off
+hey jarvis virtual ceiling fan turn on
+hey jarvis virtual ceiling light brightness decrement
+hey jarvis virtual ceiling light brightness increment
+hey jarvis virtual ceiling light brightness reload
+hey jarvis virtual ceiling light brightness set
+hey jarvis virtual ceiling light state reload
+hey jarvis virtual ceiling light state toggle
+hey jarvis virtual ceiling light state turn off
+hey jarvis virtual ceiling light state turn on
+hey jarvis virtual ceiling light toggle
+hey jarvis virtual ceiling light turn off
+hey jarvis virtual ceiling light turn on
+hey jarvis virtual coffee maker plug toggle
+hey jarvis virtual coffee maker plug turn off
+hey jarvis virtual coffee maker plug turn on
+hey jarvis virtual coffee maker state reload
+hey jarvis virtual coffee maker state toggle
+hey jarvis virtual coffee maker state turn off
+hey jarvis virtual coffee maker state turn on
+hey jarvis virtual coffee maker toggle
+hey jarvis virtual coffee maker turn off
+hey jarvis virtual coffee maker turn on
+hey jarvis virtual desk fan decrease speed
+hey jarvis virtual desk fan increase speed
+hey jarvis virtual desk fan oscillate
+hey jarvis virtual desk fan set direction
+hey jarvis virtual desk fan set preset mode
+hey jarvis virtual desk fan set speed
+hey jarvis virtual desk fan state reload
+hey jarvis virtual desk fan state toggle
+hey jarvis virtual desk fan state turn off
+hey jarvis virtual desk fan state turn on
+hey jarvis virtual desk fan toggle
+hey jarvis virtual desk fan turn off
+hey jarvis virtual desk fan turn on
+hey jarvis virtual door state reload
+hey jarvis virtual door state toggle
+hey jarvis virtual door state turn off
+hey jarvis virtual door state turn on
+hey jarvis virtual heater relay state reload
+hey jarvis virtual heater relay state toggle
+hey jarvis virtual heater relay state turn off
+hey jarvis virtual heater relay state turn on
+hey jarvis virtual heater relay toggle
+hey jarvis virtual heater relay turn off
+hey jarvis virtual heater relay turn on
+hey jarvis virtual heater toggle
+hey jarvis virtual heater turn off
+hey jarvis virtual heater turn on
+hey jarvis virtual humidity decrement
+hey jarvis virtual humidity increment
+hey jarvis virtual humidity reload
+hey jarvis virtual humidity set
+hey jarvis virtual motion state reload
+hey jarvis virtual motion state toggle
+hey jarvis virtual motion state turn off
+hey jarvis virtual motion state turn on
+hey jarvis virtual overhead door close
+hey jarvis virtual overhead door close tilt
+hey jarvis virtual overhead door open
+hey jarvis virtual overhead door open tilt
+hey jarvis virtual overhead door set position
+hey jarvis virtual overhead door set tilt position
+hey jarvis virtual overhead door state reload
+hey jarvis virtual overhead door state toggle
+hey jarvis virtual overhead door state turn off
+hey jarvis virtual overhead door state turn on
+hey jarvis virtual overhead door stop
+hey jarvis virtual overhead door stop tilt
+hey jarvis virtual overhead door toggle
+hey jarvis virtual overhead door toggle tilt
+hey jarvis virtual primary door state reload
+hey jarvis virtual primary door state toggle
+hey jarvis virtual primary door state turn off
+hey jarvis virtual primary door state turn on
+hey jarvis virtual primary lock lock
+hey jarvis virtual primary lock open
+hey jarvis virtual primary lock unlock
+hey jarvis virtual secondary door state reload
+hey jarvis virtual secondary door state toggle
+hey jarvis virtual secondary door state turn off
+hey jarvis virtual secondary door state turn on
+hey jarvis virtual secondary lock lock
+hey jarvis virtual secondary lock open
+hey jarvis virtual secondary lock unlock
+hey jarvis virtual table lamp state reload
+hey jarvis virtual table lamp state toggle
+hey jarvis virtual table lamp state turn off
+hey jarvis virtual table lamp state turn on
+hey jarvis virtual table lamp toggle
+hey jarvis virtual table lamp turn off
+hey jarvis virtual table lamp turn on
+hey jarvis virtual temperature decrement
+hey jarvis virtual temperature increment
+hey jarvis virtual temperature reload
+hey jarvis virtual temperature set
+hey jarvis virtual thermostat set fan mode
+hey jarvis virtual thermostat set horizontal swing mode
+hey jarvis virtual thermostat set hvac mode
+hey jarvis virtual thermostat set preset mode
+hey jarvis virtual thermostat set swing mode
+hey jarvis virtual thermostat set target humidity
+hey jarvis virtual thermostat set target temperature
+hey jarvis virtual thermostat toggle
+hey jarvis virtual thermostat turn off
+hey jarvis virtual thermostat turn on
+hey jarvis virtual tv plug state reload
+hey jarvis virtual tv plug state toggle
+hey jarvis virtual tv plug state turn off
+hey jarvis virtual tv plug state turn on
+hey jarvis virtual tv plug toggle
+hey jarvis virtual tv plug turn off
+hey jarvis virtual tv plug turn on
+hey jarvis virtual window blinds close
+hey jarvis virtual window blinds close tilt
+hey jarvis virtual window blinds open
+hey jarvis virtual window blinds open tilt
+hey jarvis virtual window blinds position decrement
+hey jarvis virtual window blinds position increment
+hey jarvis virtual window blinds position reload
+hey jarvis virtual window blinds position set
+hey jarvis virtual window blinds set position
+hey jarvis virtual window blinds set tilt position
+hey jarvis virtual window blinds stop
+hey jarvis virtual window blinds stop tilt
+hey jarvis virtual window blinds toggle
+hey jarvis virtual window blinds toggle tilt
+hey jarvis weather get forecasts
