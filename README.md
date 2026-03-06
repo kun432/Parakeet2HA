@@ -10,6 +10,7 @@ Uses the websockets API so can be situated anywhere and used Parakeet as I am a 
 Rather than have hardcoded language strings when HA has translated presentation layers, why not use them.
 So Parakeet do to its relatively low compute and fast speed and language support was used a demo.
 Same methods with smaller models will work, but you have have individual language models and also maybe implement noise supression as parakeet is very tolerant.
+So for proof of concept perfect but you could make extremely lite dedicated language production pipelines.
 
 Its extremely fast to update from end of voice command even on a I3-9100.
 I have played about with the intent parser enough to get much working, but I don't really create product, just highlight methods and concept.
