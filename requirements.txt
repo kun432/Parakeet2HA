@@ -1,3 +1,4 @@
+# sudo apt-get install portaudio19-dev
 # --- Home Assistant & Config ---
 websockets>=12.0
 PyYAML>=6.0
