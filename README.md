@@ -28,6 +28,10 @@ mkdir -p build
 cd build
 cmake ..
 make -j $(nproc)
+sudo cp bin/lmplz /usr/local/bin/
+sudo cp bin/build_binary /usr/local/bin/
+lmplz --help
+build_binary --help
 ```
 
 ```
