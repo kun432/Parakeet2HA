@@ -2,7 +2,8 @@
 HA voice control 
 
 Just a proof of concept no LLM needed voice control of HA, 1st run wait for parakeet to download and install.
-
+run `python simulate_boww.py` and in `python main.py` in seperate terminals to test maybe put a AGC on your mic [Vlevel
+](https://github.com/radiocicletta/vlevel)
 The LLM needs for turning on a lightbulb or static fixed strings of HASSIL have always been a confusion for me.
 So knocked this up over the last couple of days, its running on a I3-9100 mini pc with HA.
 Uses the websockets API so can be situated anywhere and used Parakeet as I am a lazy Dev.
