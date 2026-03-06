@@ -1,0 +1,57 @@
+# ==========================================================
+# PARAKEET2HA - MAIN CONFIGURATION
+# ==========================================================
+
+home_assistant:
+  host: "192.168.0.132"  # Replace with your HA IP
+  port: 8123
+  use_ssl: false
+  # YOUR_LONG_LIVED_ACCESS_TOKEN_HERE
+  master_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIyNGNmMjk1NzEzNTg0MWMyYWE2YzkyYzRiZTBlMDljMSIsImlhdCI6MTc3MjY2MzA0NiwiZXhwIjoyMDg4MDIzMDQ2fQ.sorDQiB9dM2-M87Ww7fnrSdcEQc2Z6BwrBVqdyDDSTw"
+  default_language: "en"
+
+# Map spoken nouns/plurals (in any language) to HA domains
+domain_aliases:
+  light:
+    - "lights"
+    - "light"
+  switch:
+    - "switches"
+    - "switch"
+    - "plugs"
+  cover:
+    - "blinds"
+    - "shades"
+    - "covers"
+  fan:
+    - "fans"
+    - "fan"
+
+asr_settings:
+  model_name: "nvidia/parakeet-tdt-0.6b-v3"
+  silence_duration: 1.5
+  # How often (in seconds) to run the transcription. Higher = Less CPU load.
+  process_interval: 1.0
+  # How many identical checks to wait before firing the command.
+  stability_limit: 3
+  # The primary wake words/phrases to boost in the ASR grammar
+  wake_words:
+    - "hey jarvis"
+  # --- Authoritative Wake Word Logic ---
+  wake_word_authoritative: true
+  wake_word_strictness: 0.60
+
+  
+  # For ALSA Loopback Adapter: Set this to the PyAudio device index of your loopback.
+  # Set to null to use the system default microphone.
+  input_device_name: "mic"
+
+  # Toggle the live terminal volume meter
+  show_vu_meter: true
+
+users:
+  - name: "admin"
+    voice_profile_id: "admin_01"
+    # YOUR_LONG_LIVED_ACCESS_TOKEN_HERE
+    token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIyNGNmMjk1NzEzNTg0MWMyYWE2YzkyYzRiZTBlMDljMSIsImlhdCI6MTc3MjY2MzA0NiwiZXhwIjoyMDg4MDIzMDQ2fQ.sorDQiB9dM2-M87Ww7fnrSdcEQc2Z6BwrBVqdyDDSTw"
+

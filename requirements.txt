@@ -1,0 +1,16 @@
+# --- Home Assistant & Config ---
+websockets>=12.0
+PyYAML>=6.0
+
+# --- NLP & Text Processing ---
+spacy>=3.7.0
+
+# --- Audio & Machine Learning ---
+torch
+torchaudio
+numpy
+pyaudio>=0.2.13
+soundfile>=0.12.1
+
+# --- NVIDIA NeMo (Parakeet ASR) ---
+nemo_toolkit[asr]
