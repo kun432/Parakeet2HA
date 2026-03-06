@@ -18,6 +18,8 @@ config.yaml is fairly small and easy to configure and sort of self explanitory.
 Anyway have a play, its MIT so copy and molest at your leisure.
 
 if you want to test you can add this to /homeassistant/configuration.yaml via the file editor addon
+```
+sudo apt-get install -y build-essential cmake libboost-all-dev zlib1g-dev libbz2-dev liblzma-dev git portaudio19-dev``
 
 ```
 # ==============================================================================
