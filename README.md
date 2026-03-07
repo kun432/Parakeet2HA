@@ -198,6 +198,63 @@ options:
   -j, --json            JSON形式で出力
 ```
 
+## KenLMについて
+
+[KenLM](https://github.com/kpu/kenlm)は、高速なn-gram言語モデルライブラリです。音声認識（ASR）において、デコーダが次に続く単語を予測するために使用します。
+
+### 日本語版では未使用
+
+日本語版（`main_ja.py`）では**KenLMは使用していません**。
+
+**理由:**
+
+1. **モデル品質**: 日本語版Parakeetモデル（`nvidia/parakeet-tdt_ctc-0.6b-ja`）は日本語に最適化された大規モデルであり、単体で十分な認識精度を提供
+2. **機能の簡素化**: Home Assistant連携がないため、動的な言語モデル生成の必要性がない
+3. **実装の簡素化**: KenLM統合の実装が複雑（特に日本語処理）
+
+### 英語版でのKenLMの役割
+
+元の英語版（`main.py`）では、Home Assistantのエンティティ情報を使ってカスタム言語モデルを生成し、KenLMをASRデコーダに統合しています。
+
+**仕組み:**
+
+```
+音声入力 → [音響モデル] → 候補単語列 → [KenLM言語モデル] → 最終テキスト
+                                  ↑
+                    「リビングの照明をつけて」
+                    などが来やすい
+```
+
+KenLMがない場合（Greedy Decoding）:
+- 音声認識は候補が複数ある場合、間違った単語を選んでしまう可能性がある
+- 例: 「turn on the light」が「turn on the night」などと誤認識される可能性
+
+KenLMがある場合（Flashlight Decoding）:
+- コマンドの文脈（どの単語が続く可能性が高いか）を考慮して、正しい候補を選ぶ
+- Home Assistantのエンティティ名やサービス名を学習済みなので、「リビングの照明をつけて」のような正しいコマンドが認識されやすくなる
+
+**メリット:**
+
+1. **認識精度の向上**: スマートホーム固有のコマンドパターンを学習済みのため、誤認識が減る
+2. **エンティティ名の認識改善**: 実際のデバイス名（「リビングの照明」「キッチンスイッチ」など）が正しく認識されやすくなる
+3. **コマンドの妥当性**: 「照明をつける」は妥当、「照明を消費する」は不妥当、といった文脈判断が可能
+
+**使用方法（英語版のみ）:**
+
+```bash
+# 1. コーパス生成（Home Assistantから自動生成）
+# models/corpus.txt が作成される
+
+# 2. KenLMモデルをビルド（外部ツールが必要）
+lmplz -o 5 --discount_fallback 1 models/corpus.txt > models/ha_model.arpa
+build_binary models/ha_model.arpa models/ha_model.bin
+
+# 3. ASRエンジンが models/ha_model.bin を自動的に読み込む
+python main.py
+```
+
+---
+
 以下は元レポジトリのREADMEです。
 
 ---
